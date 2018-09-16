@@ -1,0 +1,1049 @@
+﻿Log file open, 09/15/18 16:24:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: parkour_sys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208073
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.161s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/epicSDK/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.15-13.24.42:592][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.15-13.24.42:593][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.15-13.24.42:651][  0]LogHAL: Display: Platform has ~ 16 GB [17136578560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.15-13.24.42:651][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.15-13.24.42:651][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.15-13.24.42:651][  0]LogInit: Computer: DESKTOP-1FJRS5V
+[2018.09.15-13.24.42:651][  0]LogInit: User: User
+[2018.09.15-13.24.42:651][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.15-13.24.42:651][  0]LogInit: High frequency timer resolution =2.929690 MHz
+[2018.09.15-13.24.42:652][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.09.15-13.24.42:652][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.15-13.24.42:652][  0]LogMemory: Process Physical Memory: 100.57 MB used, 100.57 MB peak
+[2018.09.15-13.24.42:652][  0]LogMemory: Process Virtual Memory: 92.84 MB used, 92.84 MB peak
+[2018.09.15-13.24.42:652][  0]LogMemory: Physical Memory: 5770.75 MB used,  10571.97 MB free, 16342.71 MB total
+[2018.09.15-13.24.42:652][  0]LogMemory: Virtual Memory: 4633.80 MB used,  10571.97 MB free, 134217728.00 MB total
+[2018.09.15-13.24.42:667][  0]LogInit: Using OS detected language (ru-RU).
+[2018.09.15-13.24.42:667][  0]LogInit: Using OS detected locale (ru-UA).
+[2018.09.15-13.24.42:668][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.09.15-13.24.42:741][  0]LogStreaming: Display: Took  0.074s to InitEngineTextLocalization.
+[2018.09.15-13.24.42:741][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.15-13.24.42:891][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.15-13.24.42:891][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.15-13.24.46:112][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.15-13.24.46:112][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.15-13.24.46:164][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.09.15-13.24.46:164][  0]LogD3D11RHI:       1977/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.15-13.24.46:166][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.15-13.24.46:166][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.15-13.24.46:166][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.15-13.24.46:172][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.15-13.24.46:172][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.15-13.24.46:172][  0]LogWindows: EnumDisplayDevices:
+[2018.09.15-13.24.46:172][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.09.15-13.24.46:173][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.15-13.24.46:173][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.15-13.24.46:173][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.15-13.24.46:173][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.15-13.24.46:173][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.09.15-13.24.46:173][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.09.15-13.24.46:173][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.09.15-13.24.46:173][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.09.15-13.24.46:206][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.15-13.24.46:224][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.15-13.24.46:225][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/parkour_sys/Intermediate/Shaders/WorkingDirectory/10068/).
+[2018.09.15-13.24.46:225][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/2C3C62C64620C905614A07BE827C5F6B/'.
+[2018.09.15-13.24.46:574][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.15-13.24.46:588][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.15-13.24.46:602][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.15-13.24.46:616][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.15-13.24.46:645][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.15-13.24.46:659][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.15-13.24.46:672][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.15-13.24.46:688][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.15-13.24.46:694][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-13.24.46:803][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.15-13.24.46:889][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.15-13.24.46:889][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.15-13.24.46:914][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.15-13.24.46:914][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.15-13.24.46:927][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.15-13.24.46:940][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.15-13.24.46:953][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.15-13.24.46:984][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.15-13.24.46:993][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.15-13.24.46:993][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.15-13.24.47:034][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.15-13.24.47:034][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.15-13.24.47:034][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.15-13.24.51:974][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.15-13.24.53:610][  0]LogDerivedDataCache: Loaded boot cache 1.64s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.15-13.24.53:611][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.15-13.24.53:611][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.15-13.24.53:611][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.15-13.24.53:611][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.15-13.24.53:611][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.15-13.24.53:625][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.15-13.24.53:639][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.15-13.24.53:639][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.15-13.24.53:639][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.15-13.24.53:660][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.15-13.24.53:661][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.15-13.24.53:688][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.15-13.24.56:052][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.09.15-13.24.56:385][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.15-13.24.56:552][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.15-13.24.56:555][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.15-13.24.56:555][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.15-13.24.56:555][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.15-13.24.56:555][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.15-13.24.56:570][  0]LogNetVersion: parkour_sys 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2775540849)
+[2018.09.15-13.24.57:085][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.124450 seconds
+[2018.09.15-13.24.57:092][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.15-13.24.57:092][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.15-13.24.57:092][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.15-13.25.24:868][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.15-13.25.24:882][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.15-13.25.25:570][  0]SourceControl: Source control is disabled
+[2018.09.15-13.25.25:570][  0]SourceControl: Source control is disabled
+[2018.09.15-13.25.25:571][  0]SourceControl: Source control is disabled
+[2018.09.15-13.25.25:572][  0]SourceControl: Source control is disabled
+[2018.09.15-13.25.25:897][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.15-13.25.25:950][  0]LogOcInput: OculusInput pre-init called
+[2018.09.15-13.25.26:045][  0]LogEngine: Initializing Engine...
+[2018.09.15-13.25.26:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.15-13.25.26:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.15-13.25.26:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.15-13.25.26:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.15-13.25.26:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.15-13.25.26:266][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.15-13.25.26:276][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.15-13.25.26:294][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.15-13.25.26:315][  0]LogInit: FAudioDevice initialized.
+[2018.09.15-13.25.26:315][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.15-13.25.26:601][  0]LogDerivedDataCache: Saved boot cache 0.29s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.15-13.25.26:605][  0]LogInit: Texture streaming: Enabled
+[2018.09.15-13.25.26:617][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.15-13.25.26:632][  0]LogInit: Transaction tracking system initialized
+[2018.09.15-13.25.26:646][  0]BlueprintLog: New page: Editor Load
+[2018.09.15-13.25.26:770][  0]LocalizationService: Localization service is disabled
+[2018.09.15-13.25.27:111][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.15-13.25.27:112][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.15-13.25.27:112][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.15-13.25.27:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.15-13.25.27:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.15-13.25.27:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.15-13.25.27:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.15-13.25.28:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/' took 0.05s
+[2018.09.15-13.25.28:711][  0]SourceControl: Source control is disabled
+[2018.09.15-13.25.28:711][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.15-13.25.28:712][  0]LightingResults: New page: Lighting Build
+[2018.09.15-13.25.28:714][  0]MapCheck: New page: Map Check
+[2018.09.15-13.25.28:714][  0]LightingResults: New page: Lighting Build
+[2018.09.15-13.25.33:006][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.15-13.25.33:018][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.15-13.25.33:053][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.15-13.25.33:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66,568ms to complete.
+[2018.09.15-13.25.33:121][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.409
+[2018.09.15-13.25.33:266][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.25.33:275][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.25.33:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.25.33:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.25.33:327][  0]LogCollectionManager: Loaded 0 collections in 0.001136 seconds
+[2018.09.15-13.25.33:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/Collections/' took 0.01s
+[2018.09.15-13.25.33:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Developers/User/Collections/' took 0.01s
+[2018.09.15-13.25.33:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Collections/' took 0.01s
+[2018.09.15-13.25.33:367][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.15-13.25.33:376][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2573 classes and 605 folders.
+[2018.09.15-13.25.33:383][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.15-13.25.34:661][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.15-13.25.34:698][  0]LogSlate: Took 0.021901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.15-13.25.34:729][  0]LogSlate: Took 0.027506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.15-13.25.34:765][  0]LogSlate: Took 0.034455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.15-13.25.34:853][  0]LogRenderer: Reallocating scene render targets to support 1120x924 Format 9 NumSamples 1 (Frame:1).
+[2018.09.15-13.25.34:983][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.15-13.25.34:983][  0]LogLoad: (Engine Initialization) Total time: 57.20 seconds
+[2018.09.15-13.25.34:983][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.15-13.25.35:024][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.09.15-13.25.35:167][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.15-13.25.35:186][  1]LogAssetRegistry: Asset discovery search completed in 39.1560 seconds
+[2018.09.15-13.25.35:188][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.15-13.25.35:188][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2018.09.15-13.25.51:928][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.25.56:555][379]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.15-13.25.56:569][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2018.09.15-13.25.56:569][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Ambient_Dust.uasset.
+[2018.09.15-13.25.56:569][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Ambient_Dust : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Dust_Particle
+[2018.09.15-13.25.56:569][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2018.09.15-13.25.56:569][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Ambient_Dust.uasset.
+[2018.09.15-13.25.56:572][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2018.09.15-13.25.56:572][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle Referenced by ParticleModuleRequired_0
+[2018.09.15-13.25.56:572][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading NULL.
+[2018.09.15-13.25.56:573][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2018.09.15-13.25.56:573][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle Referenced by ParticleModuleRequired_1
+[2018.09.15-13.25.56:573][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading NULL.
+[2018.09.15-13.25.56:573][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2018.09.15-13.25.56:573][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle Referenced by ParticleModuleRequired_2
+[2018.09.15-13.25.56:573][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading NULL.
+[2018.09.15-13.25.56:573][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2018.09.15-13.25.56:573][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle Referenced by ParticleModuleRequired_3
+[2018.09.15-13.25.56:573][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading NULL.
+[2018.09.15-13.25.56:577][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.09.15-13.25.56:577][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:577][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Explosion : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Burst
+[2018.09.15-13.25.56:577][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.09.15-13.25.56:577][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:577][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Explosion : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_explosion_subUV
+[2018.09.15-13.25.56:577][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:578][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Explosion : Can't find file for asset. /Game/StarterContent/Particles/Materials/m_flare_01
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_radial_ramp'
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_radial_ramp' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:578][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Explosion : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_radial_ramp
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:578][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Explosion : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.09.15-13.25.56:578][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:579][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.09.15-13.25.56:579][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:579][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_radial_ramp'
+[2018.09.15-13.25.56:579][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_radial_ramp' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:579][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:580][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Explosion.uasset.
+[2018.09.15-13.25.56:584][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:584][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_0
+[2018.09.15-13.25.56:584][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.09.15-13.25.56:584][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.09.15-13.25.56:584][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV Referenced by ParticleModuleRequired_2
+[2018.09.15-13.25.56:584][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading NULL.
+[2018.09.15-13.25.56:585][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_radial_ramp'
+[2018.09.15-13.25.56:585][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_radial_ramp.M_radial_ramp Referenced by ParticleModuleRequired_3
+[2018.09.15-13.25.56:585][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_radial_ramp' while loading NULL.
+[2018.09.15-13.25.56:585][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.09.15-13.25.56:585][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01 Referenced by ParticleModuleRequired_4
+[2018.09.15-13.25.56:585][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading NULL.
+[2018.09.15-13.25.56:585][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.09.15-13.25.56:586][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Burst.M_Burst Referenced by ParticleModuleRequired_8
+[2018.09.15-13.25.56:586][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading NULL.
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:590][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Fire : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Fire_SubUV
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Heat_Distortion'
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Heat_Distortion' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:590][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Fire : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Heat_Distortion
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:590][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Fire : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Radial_Gradient
+[2018.09.15-13.25.56:590][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:591][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Fire : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Heat_Distortion'
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Heat_Distortion' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:591][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Fire.uasset.
+[2018.09.15-13.25.56:598][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Heat_Distortion'
+[2018.09.15-13.25.56:598][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion Referenced by ParticleModuleRequired_0
+[2018.09.15-13.25.56:598][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Heat_Distortion' while loading NULL.
+[2018.09.15-13.25.56:599][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:599][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_1
+[2018.09.15-13.25.56:599][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.09.15-13.25.56:599][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2018.09.15-13.25.56:599][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV Referenced by ParticleModuleRequired_2
+[2018.09.15-13.25.56:599][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading NULL.
+[2018.09.15-13.25.56:599][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:599][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient Referenced by ParticleModuleRequired_3
+[2018.09.15-13.25.56:600][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2018.09.15-13.25.56:600][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:600][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient Referenced by ParticleModuleRequired_4
+[2018.09.15-13.25.56:600][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2018.09.15-13.25.56:600][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2018.09.15-13.25.56:600][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV Referenced by ParticleModuleRequired_5
+[2018.09.15-13.25.56:600][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading NULL.
+[2018.09.15-13.25.56:626][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:626][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Smoke.uasset.
+[2018.09.15-13.25.56:626][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Smoke : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.09.15-13.25.56:626][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:626][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Smoke.uasset.
+[2018.09.15-13.25.56:627][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:628][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.09.15-13.25.56:634][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:634][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Sparks.uasset.
+[2018.09.15-13.25.56:634][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Sparks : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Radial_Gradient
+[2018.09.15-13.25.56:634][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:634][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Sparks.uasset.
+[2018.09.15-13.25.56:634][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Sparks : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Spark'
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Spark' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Sparks.uasset.
+[2018.09.15-13.25.56:635][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Sparks : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Spark
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Sparks.uasset.
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Sparks.uasset.
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Spark'
+[2018.09.15-13.25.56:635][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Spark' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Sparks.uasset.
+[2018.09.15-13.25.56:638][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Spark'
+[2018.09.15-13.25.56:638][379]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Spark.M_Spark Referenced by ParticleModuleRequired_0
+[2018.09.15-13.25.56:638][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Spark' while loading NULL.
+[2018.09.15-13.25.56:639][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:639][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.09.15-13.25.56:639][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2018.09.15-13.25.56:639][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2018.09.15-13.25.56:642][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:642][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Steam_Lit.uasset.
+[2018.09.15-13.25.56:642][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/P_Steam_Lit : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.09.15-13.25.56:643][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:643][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/P_Steam_Lit.uasset.
+[2018.09.15-13.25.56:644][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.09.15-13.25.56:644][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.09.15-13.25.56:651][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Burst_M'
+[2018.09.15-13.25.56:651][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Burst_M' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Burst.uasset.
+[2018.09.15-13.25.56:651][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_Burst : Can't find file for asset. /Game/StarterContent/Textures/T_Burst_M
+[2018.09.15-13.25.56:651][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Burst_M'
+[2018.09.15-13.25.56:651][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Burst_M' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Burst.uasset.
+[2018.09.15-13.25.56:652][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Burst_M'
+[2018.09.15-13.25.56:653][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Burst_M.T_Burst_M Referenced by MaterialExpressionTextureSample_0
+[2018.09.15-13.25.56:653][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Burst_M' while loading NULL.
+[2018.09.15-13.25.56:658][379]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2018.09.15-13.25.56:659][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:659][379]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.25.56:660][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Dust_Particle_D'
+[2018.09.15-13.25.56:660][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Dust_Particle_D' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Dust_Particle.uasset.
+[2018.09.15-13.25.56:660][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_Dust_Particle : Can't find file for asset. /Game/StarterContent/Textures/T_Dust_Particle_D
+[2018.09.15-13.25.56:660][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Dust_Particle_D'
+[2018.09.15-13.25.56:660][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Dust_Particle_D' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Dust_Particle.uasset.
+[2018.09.15-13.25.56:661][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Dust_Particle_D'
+[2018.09.15-13.25.56:661][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Dust_Particle_D.T_Dust_Particle_D Referenced by MaterialExpressionParticleSubUV_0
+[2018.09.15-13.25.56:661][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Dust_Particle_D' while loading NULL.
+[2018.09.15-13.25.56:664][379]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2018.09.15-13.25.56:664][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_Dust_Particle.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:664][379]LogMaterial: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2018.09.15-13.25.56:665][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Explosion_SubUV'
+[2018.09.15-13.25.56:665][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Explosion_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_explosion_subUV.uasset.
+[2018.09.15-13.25.56:665][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_explosion_subUV : Can't find file for asset. /Game/StarterContent/Textures/T_Explosion_SubUV
+[2018.09.15-13.25.56:666][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Explosion_SubUV'
+[2018.09.15-13.25.56:666][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Explosion_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_explosion_subUV.uasset.
+[2018.09.15-13.25.56:666][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Explosion_SubUV'
+[2018.09.15-13.25.56:666][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Explosion_SubUV.T_Explosion_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2018.09.15-13.25.56:667][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Explosion_SubUV' while loading NULL.
+[2018.09.15-13.25.56:668][379]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2018.09.15-13.25.56:669][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:669][379]LogMaterial: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2018.09.15-13.25.56:670][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Fire_SubUV'
+[2018.09.15-13.25.56:670][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Fire_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Fire_SubUV.uasset.
+[2018.09.15-13.25.56:670][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_Fire_SubUV : Can't find file for asset. /Game/StarterContent/Textures/T_Fire_SubUV
+[2018.09.15-13.25.56:670][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Fire_Tiled_D'
+[2018.09.15-13.25.56:671][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Fire_Tiled_D' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Fire_SubUV.uasset.
+[2018.09.15-13.25.56:671][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_Fire_SubUV : Can't find file for asset. /Game/StarterContent/Textures/T_Fire_Tiled_D
+[2018.09.15-13.25.56:671][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Fire_SubUV'
+[2018.09.15-13.25.56:671][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Fire_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Fire_SubUV.uasset.
+[2018.09.15-13.25.56:671][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Fire_Tiled_D'
+[2018.09.15-13.25.56:671][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Fire_Tiled_D' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Fire_SubUV.uasset.
+[2018.09.15-13.25.56:672][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Fire_SubUV'
+[2018.09.15-13.25.56:672][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Fire_SubUV.T_Fire_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2018.09.15-13.25.56:672][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Fire_SubUV' while loading NULL.
+[2018.09.15-13.25.56:673][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Fire_Tiled_D'
+[2018.09.15-13.25.56:673][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Fire_Tiled_D.T_Fire_Tiled_D Referenced by MaterialExpressionTextureSample_1
+[2018.09.15-13.25.56:673][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Fire_Tiled_D' while loading NULL.
+[2018.09.15-13.25.56:675][379]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2018.09.15-13.25.56:675][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:675][379]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.25.56:675][379]LogMaterial: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2018.09.15-13.25.56:683][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Water_N'
+[2018.09.15-13.25.56:683][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Water_N' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Heat_Distortion.uasset.
+[2018.09.15-13.25.56:683][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_Heat_Distortion : Can't find file for asset. /Game/StarterContent/Textures/T_Water_N
+[2018.09.15-13.25.56:683][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Water_N'
+[2018.09.15-13.25.56:683][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Water_N' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Heat_Distortion.uasset.
+[2018.09.15-13.25.56:684][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Water_N'
+[2018.09.15-13.25.56:684][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_1
+[2018.09.15-13.25.56:684][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Water_N' while loading NULL.
+[2018.09.15-13.25.56:686][379]LogMaterial: Display: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2018.09.15-13.25.56:687][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:687][379]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.25.56:704][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Smoke_SubUV'
+[2018.09.15-13.25.56:704][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Smoke_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_smoke_subUV.uasset.
+[2018.09.15-13.25.56:704][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_smoke_subUV : Can't find file for asset. /Game/StarterContent/Textures/T_Smoke_SubUV
+[2018.09.15-13.25.56:705][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Smoke_Tiled_D'
+[2018.09.15-13.25.56:705][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Smoke_Tiled_D' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_smoke_subUV.uasset.
+[2018.09.15-13.25.56:705][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_smoke_subUV : Can't find file for asset. /Game/StarterContent/Textures/T_Smoke_Tiled_D
+[2018.09.15-13.25.56:705][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Smoke_SubUV'
+[2018.09.15-13.25.56:705][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Smoke_SubUV' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_smoke_subUV.uasset.
+[2018.09.15-13.25.56:705][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Smoke_Tiled_D'
+[2018.09.15-13.25.56:705][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Smoke_Tiled_D' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_smoke_subUV.uasset.
+[2018.09.15-13.25.56:706][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Smoke_SubUV'
+[2018.09.15-13.25.56:706][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Smoke_SubUV.T_Smoke_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2018.09.15-13.25.56:706][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Smoke_SubUV' while loading NULL.
+[2018.09.15-13.25.56:706][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Smoke_Tiled_D'
+[2018.09.15-13.25.56:707][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D Referenced by MaterialExpressionTextureSample_0
+[2018.09.15-13.25.56:707][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Smoke_Tiled_D' while loading NULL.
+[2018.09.15-13.25.56:708][379]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.09.15-13.25.56:709][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:709][379]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.25.56:709][379]LogMaterial: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2018.09.15-13.25.56:710][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Spark_Core'
+[2018.09.15-13.25.56:710][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Spark_Core' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Spark.uasset.
+[2018.09.15-13.25.56:710][379]LoadErrors: Error: /Game/Particle/StarterContent/Particles/Materials/M_Spark : Can't find file for asset. /Game/StarterContent/Textures/T_Spark_Core
+[2018.09.15-13.25.56:711][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Spark_Core'
+[2018.09.15-13.25.56:711][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Spark_Core' while loading C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/StarterContent/Particles/Materials/M_Spark.uasset.
+[2018.09.15-13.25.56:711][379]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Spark_Core'
+[2018.09.15-13.25.56:711][379]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Spark_Core.T_Spark_Core Referenced by MaterialExpressionTextureSample_1
+[2018.09.15-13.25.56:711][379]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Spark_Core' while loading NULL.
+[2018.09.15-13.25.56:713][379]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2018.09.15-13.25.56:714][379]LogMaterial: Warning: C:\Users\User\Documents\Unreal Projects\parkour_sys\Content\Particle\StarterContent\Particles\Materials\M_Spark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.25.56:714][379]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.25.56:840][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Ambient_Dust" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Ambient_Dust.uasset" SILENT=true
+[2018.09.15-13.25.56:867][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_Ambient_Dust617B75564AB8F3ED27859FA242ACE67E.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Ambient_Dust.uasset'
+[2018.09.15-13.25.56:884][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Explosion" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Explosion.uasset" SILENT=true
+[2018.09.15-13.25.56:924][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_ExplosionBCEF7DDF436EFD65AFA2DFAC784A50E5.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Explosion.uasset'
+[2018.09.15-13.25.56:936][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Fire" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Fire.uasset" SILENT=true
+[2018.09.15-13.25.56:988][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_Fire09BED06543D184ADEAB9E6AF8A371D20.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Fire.uasset'
+[2018.09.15-13.25.56:997][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Smoke" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Smoke.uasset" SILENT=true
+[2018.09.15-13.25.57:014][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_SmokeB1A2101743186757F69EE892FCE5DA39.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Smoke.uasset'
+[2018.09.15-13.25.57:025][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Sparks" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Sparks.uasset" SILENT=true
+[2018.09.15-13.25.57:053][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_Sparks931DDDF348126F1D118BC2A081E107D3.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Sparks.uasset'
+[2018.09.15-13.25.57:065][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Steam_Lit" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Steam_Lit.uasset" SILENT=true
+[2018.09.15-13.25.57:084][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_Steam_LitD27A85B043825A651E44C4BEC731A86B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Steam_Lit.uasset'
+[2018.09.15-13.25.57:110][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/Materials/M_Burst" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Burst.uasset" SILENT=true
+[2018.09.15-13.25.57:127][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_Burst2380C8A14903FEDC013573A79DFFB97B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Burst.uasset'
+[2018.09.15-13.25.57:161][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_Dust_Particle00735E0147A95A532EA6E7BFB66C75E6.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Dust_Particle.uasset'
+[2018.09.15-13.25.57:196][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_explosion_subUV8066C59E481A6675EA7F24B755E57061.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_explosion_subUV.uasset'
+[2018.09.15-13.25.57:230][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_Fire_SubUV55ADC0904479AD9B48B9AC88047E1F07.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Fire_SubUV.uasset'
+[2018.09.15-13.25.57:247][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/Materials/m_flare_01" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/m_flare_01.uasset" SILENT=true
+[2018.09.15-13.25.57:264][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/m_flare_014EB4D5AD4B293EC9B6CCE2BBFC5A1B06.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/m_flare_01.uasset'
+[2018.09.15-13.25.57:298][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_Heat_DistortionE07FFB234D78CD64B829DE80DA232B9B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Heat_Distortion.uasset'
+[2018.09.15-13.25.57:334][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_Radial_GradientA7F28ABA40EBC28EE478438B360B6C62.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Radial_Gradient.uasset'
+[2018.09.15-13.25.57:367][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_radial_rampB85DBA544DB5724DD01BD3B9A7D68D62.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_radial_ramp.uasset'
+[2018.09.15-13.25.57:400][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_smoke_subUV6A931AF440B39C84AFF9FCA20D69BD37.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_smoke_subUV.uasset'
+[2018.09.15-13.25.57:416][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/Materials/M_Spark" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Spark.uasset" SILENT=true
+[2018.09.15-13.25.57:432][379]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/M_Spark6482FE10463BE1B4F8CC08ADC360064E.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/Materials/M_Spark.uasset'
+[2018.09.15-13.26.05:375][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Burst_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Burst_M.uasset" SILENT=true
+[2018.09.15-13.26.05:391][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Burst_MB94C4A7046E52C57BDE6A593B487D0A5.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Burst_M.uasset'
+[2018.09.15-13.26.05:398][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Dust_Particle_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Dust_Particle_D.uasset" SILENT=true
+[2018.09.15-13.26.05:406][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Dust_Particle_DCC9221364890F103DD6F8D8FA6B8B121.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Dust_Particle_D.uasset'
+[2018.09.15-13.26.05:418][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Explosion_SubUV" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Explosion_SubUV.uasset" SILENT=true
+[2018.09.15-13.26.05:466][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Explosion_SubUVB05A7A9A44C8440B9B18D29F30515950.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Explosion_SubUV.uasset'
+[2018.09.15-13.26.05:476][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Fire_SubUV" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Fire_SubUV.uasset" SILENT=true
+[2018.09.15-13.26.05:496][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Fire_SubUVE0108CDB4DF4C99A1912C8AAED4664E2.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Fire_SubUV.uasset'
+[2018.09.15-13.26.05:507][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Fire_Tiled_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Fire_Tiled_D.uasset" SILENT=true
+[2018.09.15-13.26.05:528][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Fire_Tiled_DA5222CBD40AE2EB83CA493A7DB3649D3.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Fire_Tiled_D.uasset'
+[2018.09.15-13.26.05:539][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Smoke_SubUV" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Smoke_SubUV.uasset" SILENT=true
+[2018.09.15-13.26.05:583][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Smoke_SubUV4B3558874C4F6CF890EA8486655BD724.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Smoke_SubUV.uasset'
+[2018.09.15-13.26.05:595][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Smoke_Tiled_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Smoke_Tiled_D.uasset" SILENT=true
+[2018.09.15-13.26.05:673][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Smoke_Tiled_D75E5FE0D4BD8E2F802891D9D04A417BF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Smoke_Tiled_D.uasset'
+[2018.09.15-13.26.05:707][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Spark_Core" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Spark_Core.uasset" SILENT=true
+[2018.09.15-13.26.05:754][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Spark_CoreF24B9A094E6FC390C73764AC1CFDCD78.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Spark_Core.uasset'
+[2018.09.15-13.26.05:778][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Textures/T_Water_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Water_N.uasset" SILENT=true
+[2018.09.15-13.26.05:819][187]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Water_N2D66BCD2401846BF0673258D142F9E3B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Textures/T_Water_N.uasset'
+[2018.09.15-13.26.19:121][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.27.27:348][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.09.15-13.27.27:770][793]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.15-13.27.28:610][793]LogSlate: Took 0.003624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.15-13.27.28:751][794]LogSlate: Took 0.003633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.15-13.30.00:244][713]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.15-13.30.01:740][796]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.15-13.30.01:762][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.30.01:762][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-13.30.01:775][796]PIE: New page: PIE session: ThirdPersonExampleMap (15 сент. 2018, 19:30:01)
+[2018.09.15-13.30.01:775][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.15-13.30.01:797][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021659s)
+[2018.09.15-13.30.01:798][796]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.15-13.30.01:798][796]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.09.15-13.30.01:798][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022824s)
+[2018.09.15-13.30.01:840][796]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.15-13.30.01:853][796]LogInit: FAudioDevice initialized.
+[2018.09.15-13.30.01:859][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.30.01:969][796]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.15-13.30.01:972][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.15-16.30.01
+[2018.09.15-13.30.01:972][796]LogWorld: Bringing up level for play took: 0.002096
+[2018.09.15-13.30.01:992][796]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.15-13.30.01:997][796]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,011
+[2018.09.15-13.30.01:998][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.30.02:014][796]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 9 NumSamples 1 (Frame:1).
+[2018.09.15-13.30.03:058][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:066][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:080][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:088][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:097][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:107][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:116][895]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:125][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:133][897]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:143][898]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:151][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:267][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:277][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:285][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:294][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:303][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:313][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.03:322][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.04:259][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.30.04:332][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] None
+[2018.09.15-13.30.04:332][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.15-13.30.04:332][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.09.15-13.30.04:332][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.15-13.30.05:035][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:044][107]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:053][108]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:063][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:071][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:081][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:090][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:099][113]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.30.05:229][127]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.15-13.30.12:100][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.30.12:100][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.30.12:121][873]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.15-13.30.12:155][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.15-13.30.12:156][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.30.12:216][874]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.15-13.30.20:034][799]LogAssetEditorManager: Opening Asset editor for Material /Game/Particle/Particles/Materials/M_Burst.M_Burst
+[2018.09.15-13.30.20:037][799]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2018.09.15-13.30.20:037][799]LogMaterial: Warning: /Engine/Transient.M_Burst (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.30.20:037][799]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.30.20:298][799]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2018.09.15-13.30.20:298][799]LogMaterial: Warning: /Engine/Transient.M_Burst (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.30.20:298][799]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.30.20:301][799]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2018.09.15-13.30.20:301][799]LogMaterial: Warning: /Engine/Transient.M_Burst (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.15-13.30.20:301][799]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.30.20:330][799]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.15-13.30.20:340][799]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.15-13.30.20:389][799]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.15-13.30.20:389][799]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.15-13.30.20:389][799]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.09.15-13.30.23:315][ 87]LogSlate: Window 'Stats' being destroyed
+[2018.09.15-13.30.23:318][ 87]LogSlate: Window 'Stats' being destroyed
+[2018.09.15-13.30.28:771][635]LogSlate: Window 'M_Burst' being destroyed
+[2018.09.15-13.30.39:128][849]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particle/Particles/P_Explosion.P_Explosion
+[2018.09.15-13.30.39:135][849]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2018.09.15-13.30.56:190][839]LogSlate: Window 'P_Explosion' being destroyed
+[2018.09.15-13.30.56:194][839]LogCascade: Quitting Cascade. FXSystem=0x000001F8608E7420
+[2018.09.15-13.30.57:226][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.15-13.31.55:710][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.32.05:870][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_Beveled_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Beveled_D.uasset" SILENT=true
+[2018.09.15-13.32.05:981][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_Beveled_D7F5C9D244FA10FD453583BABC9C31F5B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Beveled_D.uasset'
+[2018.09.15-13.32.05:993][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_Beveled_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Beveled_M.uasset" SILENT=true
+[2018.09.15-13.32.06:102][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_Beveled_M3816463D4354539C743238B437CCC1E3.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Beveled_M.uasset'
+[2018.09.15-13.32.06:114][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_Beveled_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Beveled_N.uasset" SILENT=true
+[2018.09.15-13.32.06:209][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_Beveled_NBBC3B78A4B49D493DABC138F5581844B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Beveled_N.uasset'
+[2018.09.15-13.32.06:224][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_New_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_New_D.uasset" SILENT=true
+[2018.09.15-13.32.06:304][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_New_DED1E65214AD3E5D9E4976F9F784D28FA.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_New_D.uasset'
+[2018.09.15-13.32.06:315][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_New_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_New_M.uasset" SILENT=true
+[2018.09.15-13.32.06:442][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_New_M0611BE8747A6906B686BA8952437DE9A.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_New_M.uasset'
+[2018.09.15-13.32.06:458][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_New_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_New_N.uasset" SILENT=true
+[2018.09.15-13.32.06:559][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_New_NABB9B7474A638C412EEF79B5CF0612F2.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_New_N.uasset'
+[2018.09.15-13.32.06:570][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_Old_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Old_D.uasset" SILENT=true
+[2018.09.15-13.32.06:721][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_Old_DE689E3A34AAE4CEC739863A68DF8A362.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Old_D.uasset'
+[2018.09.15-13.32.06:734][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Clay_Old_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Old_N.uasset" SILENT=true
+[2018.09.15-13.32.06:834][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Clay_Old_NAE3EEFFF4AC93F3E9E155BB3CA717A02.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Clay_Old_N.uasset'
+[2018.09.15-13.32.06:845][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Cut_Stone_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Cut_Stone_D.uasset" SILENT=true
+[2018.09.15-13.32.07:012][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Cut_Stone_D490015474CB1AFF01490E69D4F819678.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Cut_Stone_D.uasset'
+[2018.09.15-13.32.07:025][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Cut_Stone_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Cut_Stone_N.uasset" SILENT=true
+[2018.09.15-13.32.07:110][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Cut_Stone_NBFF55B0F455EF1AAE2E363B0C0056ACF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Cut_Stone_N.uasset'
+[2018.09.15-13.32.07:121][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Hewn_Stone_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Hewn_Stone_D.uasset" SILENT=true
+[2018.09.15-13.32.07:219][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Hewn_Stone_D2759D0D9499CF061E201CF8E0ED4B93F.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Hewn_Stone_D.uasset'
+[2018.09.15-13.32.07:231][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Hewn_Stone_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Hewn_Stone_M.uasset" SILENT=true
+[2018.09.15-13.32.07:319][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Hewn_Stone_M7F6C415043F15A8AAA65D1AE309D15EF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Hewn_Stone_M.uasset'
+[2018.09.15-13.32.07:331][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Brick_Hewn_Stone_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Hewn_Stone_N.uasset" SILENT=true
+[2018.09.15-13.32.07:445][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Brick_Hewn_Stone_N5D09E7D54B21FB419C67E8B0C114C250.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Brick_Hewn_Stone_N.uasset'
+[2018.09.15-13.32.07:455][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Burst_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Burst_M.uasset" SILENT=true
+[2018.09.15-13.32.07:470][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Burst_M9428B43B42CE59B05CE15BA1D57D07FF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Burst_M.uasset'
+[2018.09.15-13.32.07:481][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Bush_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Bush_D.uasset" SILENT=true
+[2018.09.15-13.32.07:504][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Bush_D59FC012644BED3528D4D2C8B695A6996.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Bush_D.uasset'
+[2018.09.15-13.32.07:516][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Bush_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Bush_N.uasset" SILENT=true
+[2018.09.15-13.32.07:535][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Bush_NBB2B5BCD426DD2F21C02AC88B04FAD84.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Bush_N.uasset'
+[2018.09.15-13.32.07:547][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ceramic_Tile_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ceramic_Tile_M.uasset" SILENT=true
+[2018.09.15-13.32.07:564][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ceramic_Tile_M6712DA9549F3842E236E52AC0B746A67.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ceramic_Tile_M.uasset'
+[2018.09.15-13.32.07:576][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ceramic_Tile_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ceramic_Tile_N.uasset" SILENT=true
+[2018.09.15-13.32.07:592][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ceramic_Tile_N3E97DCD64D1E7B62C21A639E0D82CA6E.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ceramic_Tile_N.uasset'
+[2018.09.15-13.32.07:604][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Chair_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Chair_M.uasset" SILENT=true
+[2018.09.15-13.32.07:627][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Chair_MFA1A6B1943F2AA4DFA34A3B6145603DE.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Chair_M.uasset'
+[2018.09.15-13.32.07:644][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Chair_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Chair_N.uasset" SILENT=true
+[2018.09.15-13.32.07:694][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Chair_N6B4EDFB347B51A60E7B9AEA9E6D69857.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Chair_N.uasset'
+[2018.09.15-13.32.07:705][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Checker_Noise_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Checker_Noise_M.uasset" SILENT=true
+[2018.09.15-13.32.07:724][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Checker_Noise_ME7B64F034ABA9E62AF54E08B79FEEBC8.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Checker_Noise_M.uasset'
+[2018.09.15-13.32.07:736][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Pebble_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Pebble_D.uasset" SILENT=true
+[2018.09.15-13.32.07:891][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Pebble_DCE7464304C3058684E62408B90DAC944.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Pebble_D.uasset'
+[2018.09.15-13.32.07:902][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Pebble_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Pebble_M.uasset" SILENT=true
+[2018.09.15-13.32.07:932][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Pebble_ME71105194D4B262F8169A58917B30565.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Pebble_M.uasset'
+[2018.09.15-13.32.07:944][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Pebble_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Pebble_N.uasset" SILENT=true
+[2018.09.15-13.32.08:125][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Pebble_N9B410B154BF4626BA85548909EEB4072.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Pebble_N.uasset'
+[2018.09.15-13.32.08:138][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Rough_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Rough_D.uasset" SILENT=true
+[2018.09.15-13.32.08:191][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Rough_DE54209C0487B1F89D15FA0A11F00BAED.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Rough_D.uasset'
+[2018.09.15-13.32.08:203][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Rough_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Rough_N.uasset" SILENT=true
+[2018.09.15-13.32.08:249][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Rough_N6595CFCA49BBC4BEE5C034AC384F2527.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Rough_N.uasset'
+[2018.09.15-13.32.08:260][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Smooth_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Smooth_D.uasset" SILENT=true
+[2018.09.15-13.32.08:349][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Smooth_D5AA679CB46554A22BEB49FBBE7AE6455.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Smooth_D.uasset'
+[2018.09.15-13.32.08:360][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Smooth_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Smooth_M.uasset" SILENT=true
+[2018.09.15-13.32.08:440][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Smooth_M0AFFF0414A2DEFCAA924559B4B215267.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Smooth_M.uasset'
+[2018.09.15-13.32.08:452][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CobbleStone_Smooth_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Smooth_N.uasset" SILENT=true
+[2018.09.15-13.32.08:567][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_CobbleStone_Smooth_N1018BD2C4CB36BE39892939410DC779B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_CobbleStone_Smooth_N.uasset'
+[2018.09.15-13.32.08:578][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Grime_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Grime_D.uasset" SILENT=true
+[2018.09.15-13.32.08:724][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Grime_D0767A44041E3C47006C25DB995B633BF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Grime_D.uasset'
+[2018.09.15-13.32.08:736][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Panels_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Panels_D.uasset" SILENT=true
+[2018.09.15-13.32.08:849][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Panels_D6070BC0944A7D7A9A2804E94B3499B3B.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Panels_D.uasset'
+[2018.09.15-13.32.08:861][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Panels_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Panels_N.uasset" SILENT=true
+[2018.09.15-13.32.08:944][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Panels_NF9841374449C0E9325506EBCE74C7DAA.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Panels_N.uasset'
+[2018.09.15-13.32.08:955][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Poured_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Poured_D.uasset" SILENT=true
+[2018.09.15-13.32.09:115][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Poured_D8512D11D44BEA7F58F0284B377F446E9.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Poured_D.uasset'
+[2018.09.15-13.32.09:127][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Poured_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Poured_N.uasset" SILENT=true
+[2018.09.15-13.32.09:221][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Poured_ND2BB16094ED222DE1D7259BCC2124D9C.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Poured_N.uasset'
+[2018.09.15-13.32.09:233][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Tiles_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_D.uasset" SILENT=true
+[2018.09.15-13.32.09:312][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Tiles_D884356C3467EEE029A81CAAD17D8BEBB.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_D.uasset'
+[2018.09.15-13.32.09:327][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Tiles_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_M.uasset" SILENT=true
+[2018.09.15-13.32.09:403][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Tiles_MEC39882441AB4F2645DA1AB648B67F29.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_M.uasset'
+[2018.09.15-13.32.09:415][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Tiles_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_N.uasset" SILENT=true
+[2018.09.15-13.32.09:498][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Tiles_N507AC29B4792707B64F625B7C384F759.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_N.uasset'
+[2018.09.15-13.32.09:516][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Tiles_Variation_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_Variation_M.uasset" SILENT=true
+[2018.09.15-13.32.09:525][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Concrete_Tiles_Variation_M5D6E5B3A4EF0FB44D2EA018EC628144C.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Concrete_Tiles_Variation_M.uasset'
+[2018.09.15-13.32.09:537][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Detail_Rocky_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Detail_Rocky_N.uasset" SILENT=true
+[2018.09.15-13.32.09:583][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Detail_Rocky_N4AB273A54DA653F54E5B44A5280E3BB2.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Detail_Rocky_N.uasset'
+[2018.09.15-13.32.09:594][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Door_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Door_M.uasset" SILENT=true
+[2018.09.15-13.32.09:614][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Door_M889FD788433F7158A8EADE9B3707ED4F.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Door_M.uasset'
+[2018.09.15-13.32.09:625][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Door_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Door_N.uasset" SILENT=true
+[2018.09.15-13.32.09:648][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Door_N570B75484E668C6FE6B26D8D58CFFF25.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Door_N.uasset'
+[2018.09.15-13.32.09:655][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Dust_Particle_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Dust_Particle_D.uasset" SILENT=true
+[2018.09.15-13.32.09:663][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Dust_Particle_DFBA0B21D4E42778C830C91B9A3A7E3FF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Dust_Particle_D.uasset'
+[2018.09.15-13.32.09:674][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Explosion_SubUV" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Explosion_SubUV.uasset" SILENT=true
+[2018.09.15-13.32.09:721][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Explosion_SubUV103989D041EF3186E37F14BCCC1662CF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Explosion_SubUV.uasset'
+[2018.09.15-13.32.09:731][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Fire_SubUV" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Fire_SubUV.uasset" SILENT=true
+[2018.09.15-13.32.09:751][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Fire_SubUVB74B694A48FB3306C20D6796E18ADA19.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Fire_SubUV.uasset'
+[2018.09.15-13.32.09:761][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Fire_Tiled_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Fire_Tiled_D.uasset" SILENT=true
+[2018.09.15-13.32.09:782][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Fire_Tiled_DE9E479254995B343AEFB6D80D7AB2AEE.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Fire_Tiled_D.uasset'
+[2018.09.15-13.32.09:794][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Frame_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Frame_M.uasset" SILENT=true
+[2018.09.15-13.32.09:814][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Frame_MEB1EB31048B543895A1111AEE23B6CEA.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Frame_M.uasset'
+[2018.09.15-13.32.09:825][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Frame_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Frame_N.uasset" SILENT=true
+[2018.09.15-13.32.09:850][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Frame_N441176234FC09F6B505AB7AE063A230F.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Frame_N.uasset'
+[2018.09.15-13.32.09:856][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Gradinet_01" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Gradinet_01.uasset" SILENT=true
+[2018.09.15-13.32.09:864][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Gradinet_011D884A374EDC4A6B5C38B5BCF6E5BD0E.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Gradinet_01.uasset'
+[2018.09.15-13.32.09:876][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ground_Grass_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Grass_D.uasset" SILENT=true
+[2018.09.15-13.32.10:047][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ground_Grass_DC7ACBB8B48A479A8D192E7B2AB1154D3.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Grass_D.uasset'
+[2018.09.15-13.32.10:058][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ground_Grass_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Grass_N.uasset" SILENT=true
+[2018.09.15-13.32.10:201][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ground_Grass_N5A77AADA43EB82F410B676B00CB1D84F.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Grass_N.uasset'
+[2018.09.15-13.32.10:213][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ground_Gravel_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Gravel_D.uasset" SILENT=true
+[2018.09.15-13.32.10:364][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ground_Gravel_D627378D04ED4AAFC18B9C49A233626EB.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Gravel_D.uasset'
+[2018.09.15-13.32.10:376][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ground_Gravel_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Gravel_N.uasset" SILENT=true
+[2018.09.15-13.32.10:480][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ground_Gravel_N86CE3E7E4366F3A1B6A076B4A8A91F2D.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Gravel_N.uasset'
+[2018.09.15-13.32.10:492][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_ground_Moss_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_ground_Moss_D.uasset" SILENT=true
+[2018.09.15-13.32.10:676][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_ground_Moss_D7A4AE9ED48655599D74A6EA3B257EDEC.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_ground_Moss_D.uasset'
+[2018.09.15-13.32.10:688][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ground_Moss_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Moss_N.uasset" SILENT=true
+[2018.09.15-13.32.10:812][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Ground_Moss_NDE91047643B47E488BD2C98D12BBF0D6.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Ground_Moss_N.uasset'
+[2018.09.15-13.32.10:824][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Lamp_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Lamp_M.uasset" SILENT=true
+[2018.09.15-13.32.10:847][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Lamp_MDC015C2B4F30E6447D4552AA7654C20C.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Lamp_M.uasset'
+[2018.09.15-13.32.10:859][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Lamp_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Lamp_N.uasset" SILENT=true
+[2018.09.15-13.32.10:895][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Lamp_N71CB9BA54591B18FEF6A84AAE03028D6.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Lamp_N.uasset'
+[2018.09.15-13.32.10:908][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_MacroVariation" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_MacroVariation.uasset" SILENT=true
+[2018.09.15-13.32.11:069][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_MacroVariationE3FC3FCA4D291447F9F1A7AABD3E2FCC.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_MacroVariation.uasset'
+[2018.09.15-13.32.11:081][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Aluminum_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Aluminum_D.uasset" SILENT=true
+[2018.09.15-13.32.11:222][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Aluminum_D6CA0CA9040F77253E9039BB54DBC2023.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Aluminum_D.uasset'
+[2018.09.15-13.32.11:234][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Copper_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Copper_D.uasset" SILENT=true
+[2018.09.15-13.32.11:352][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Copper_D80B326694034B58A4DE0039DD3D83A8E.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Copper_D.uasset'
+[2018.09.15-13.32.11:363][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Gold_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Gold_D.uasset" SILENT=true
+[2018.09.15-13.32.11:484][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Gold_DE8BCB7D0446F045A285FFC963C941742.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Gold_D.uasset'
+[2018.09.15-13.32.11:497][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Gold_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Gold_N.uasset" SILENT=true
+[2018.09.15-13.32.11:539][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Gold_NC261999A44E8268B82C8CE844D798DBD.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Gold_N.uasset'
+[2018.09.15-13.32.11:550][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Rust_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Rust_D.uasset" SILENT=true
+[2018.09.15-13.32.11:678][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Rust_D9216E9DD4D1ABC20D47BE09C061926B3.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Rust_D.uasset'
+[2018.09.15-13.32.11:691][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Rust_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Rust_N.uasset" SILENT=true
+[2018.09.15-13.32.11:788][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Rust_N0EEEF119442BE4BB482BB4B226313006.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Rust_N.uasset'
+[2018.09.15-13.32.11:800][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Steel_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Steel_D.uasset" SILENT=true
+[2018.09.15-13.32.11:857][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Steel_DF377156C4BBAB28AEB4377BCAAFE2F7F.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Steel_D.uasset'
+[2018.09.15-13.32.11:872][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Steel_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Steel_N.uasset" SILENT=true
+[2018.09.15-13.32.11:939][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Metal_Steel_N6AF70AA5400193B895BDAEA38D138ED9.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Metal_Steel_N.uasset'
+[2018.09.15-13.32.11:951][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Perlin_Noise_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Perlin_Noise_M.uasset" SILENT=true
+[2018.09.15-13.32.12:063][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Perlin_Noise_M999292F04D5390B469D6B3B30A70F348.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Perlin_Noise_M.uasset'
+[2018.09.15-13.32.12:074][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_RockMesh_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_RockMesh_M.uasset" SILENT=true
+[2018.09.15-13.32.12:117][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_RockMesh_M2446094540623E8DCC9704AF228CCB1A.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_RockMesh_M.uasset'
+[2018.09.15-13.32.12:128][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_RockMesh_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_RockMesh_N.uasset" SILENT=true
+[2018.09.15-13.32.12:201][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_RockMesh_NA9279AAD412462881B19DDAC23E0FE98.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_RockMesh_N.uasset'
+[2018.09.15-13.32.12:212][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Basalt_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Basalt_D.uasset" SILENT=true
+[2018.09.15-13.32.12:341][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Basalt_DF1DA36734F677D24159541BE062706C0.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Basalt_D.uasset'
+[2018.09.15-13.32.12:351][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Basalt_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Basalt_N.uasset" SILENT=true
+[2018.09.15-13.32.12:452][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Basalt_ND5F2B5DC48B6CA67D661DB8022F29102.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Basalt_N.uasset'
+[2018.09.15-13.32.12:464][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Marble_Polished_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Marble_Polished_D.uasset" SILENT=true
+[2018.09.15-13.32.12:538][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Marble_Polished_D43EA162C4C56B9CFC79E52A1F597C88A.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Marble_Polished_D.uasset'
+[2018.09.15-13.32.12:549][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Sandstone_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Sandstone_D.uasset" SILENT=true
+[2018.09.15-13.32.12:670][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Sandstone_D190817FB4DB801E24CA24482E6D90684.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Sandstone_D.uasset'
+[2018.09.15-13.32.12:681][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Sandstone_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Sandstone_N.uasset" SILENT=true
+[2018.09.15-13.32.12:787][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Sandstone_N260170A240039CA6716AC7B7A925C3A0.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Sandstone_N.uasset'
+[2018.09.15-13.32.12:800][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Slate_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Slate_D.uasset" SILENT=true
+[2018.09.15-13.32.12:961][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Slate_DEE5AE8024D570FB1F3BA2EA1600F490D.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Slate_D.uasset'
+[2018.09.15-13.32.12:973][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Slate_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Slate_N.uasset" SILENT=true
+[2018.09.15-13.32.13:097][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Slate_N23FF6E884A7271B8E486FF884598DADD.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Slate_N.uasset'
+[2018.09.15-13.32.13:109][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Rock_Smooth_Granite_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Smooth_Granite_D.uasset" SILENT=true
+[2018.09.15-13.32.13:228][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Rock_Smooth_Granite_D544E3FD24DE029BA2D1900AD56C50E36.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Rock_Smooth_Granite_D.uasset'
+[2018.09.15-13.32.13:238][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Shelf_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Shelf_M.uasset" SILENT=true
+[2018.09.15-13.32.13:258][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Shelf_M41ACC79A4C09F0D04BC7CB9B75CA8796.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Shelf_M.uasset'
+[2018.09.15-13.32.13:270][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Shelf_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Shelf_N.uasset" SILENT=true
+[2018.09.15-13.32.13:298][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Shelf_NB4CFE82740907984A2A7B9B5322F0435.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Shelf_N.uasset'
+[2018.09.15-13.32.13:310][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Single_Tile_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Single_Tile_N.uasset" SILENT=true
+[2018.09.15-13.32.13:320][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Single_Tile_N9FA62B0D4ADAD1BB7D26FF86FFFA66F3.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Single_Tile_N.uasset'
+[2018.09.15-13.32.13:331][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Smoke_SubUV" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Smoke_SubUV.uasset" SILENT=true
+[2018.09.15-13.32.13:377][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Smoke_SubUV406E54E547AEEDEAD40346B8BEFB7261.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Smoke_SubUV.uasset'
+[2018.09.15-13.32.13:389][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Smoke_Tiled_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Smoke_Tiled_D.uasset" SILENT=true
+[2018.09.15-13.32.13:403][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Smoke_Tiled_DA0545CA547544FE90ED69FA92C36480D.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Smoke_Tiled_D.uasset'
+[2018.09.15-13.32.13:412][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Spark_Core" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Spark_Core.uasset" SILENT=true
+[2018.09.15-13.32.13:426][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Spark_Core2A5F22B84DD8E8C6C265ACAD4D0887BD.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Spark_Core.uasset'
+[2018.09.15-13.32.13:439][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Statue_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Statue_M.uasset" SILENT=true
+[2018.09.15-13.32.13:459][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Statue_M148B049D46056C557F858A967830CE43.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Statue_M.uasset'
+[2018.09.15-13.32.13:472][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Statue_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Statue_N.uasset" SILENT=true
+[2018.09.15-13.32.13:490][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Statue_N6276EB474EFCCF4A686A5697D056B3CF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Statue_N.uasset'
+[2018.09.15-13.32.13:503][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TableRound_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_TableRound_M.uasset" SILENT=true
+[2018.09.15-13.32.13:526][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_TableRound_MB1A07A084C288ABA697ECA8CF0354C5C.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_TableRound_M.uasset'
+[2018.09.15-13.32.13:538][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TableRound_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_TableRound_N.uasset" SILENT=true
+[2018.09.15-13.32.13:642][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_TableRound_N9676BEDB45BB690E6252B2B00783AD69.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_TableRound_N.uasset'
+[2018.09.15-13.32.13:672][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Tech_Dot_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Dot_M.uasset" SILENT=true
+[2018.09.15-13.32.13:698][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Tech_Dot_MCDECEE4742EADB1792E94794BDEDFAFD.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Dot_M.uasset'
+[2018.09.15-13.32.13:723][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Tech_Dot_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Dot_N.uasset" SILENT=true
+[2018.09.15-13.32.13:750][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Tech_Dot_NED072C574D3C8238D597D787412DB463.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Dot_N.uasset'
+[2018.09.15-13.32.13:769][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Tech_Hex_Tile_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Hex_Tile_M.uasset" SILENT=true
+[2018.09.15-13.32.13:803][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Tech_Hex_Tile_MC3FB36644267EC752B09FB9AEB19297E.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Hex_Tile_M.uasset'
+[2018.09.15-13.32.13:817][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Tech_Hex_Tile_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Hex_Tile_N.uasset" SILENT=true
+[2018.09.15-13.32.13:836][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Tech_Hex_Tile_N1F3CD0C3421CBB211BA06499D6E46EA9.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Hex_Tile_N.uasset'
+[2018.09.15-13.32.13:847][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Tech_Panel_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Panel_M.uasset" SILENT=true
+[2018.09.15-13.32.13:876][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Tech_Panel_M130FA3FF44709AD681DE6BB785737564.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Panel_M.uasset'
+[2018.09.15-13.32.13:889][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Tech_Panel_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Panel_N.uasset" SILENT=true
+[2018.09.15-13.32.13:923][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Tech_Panel_N3D6EB00342A82B859D7D4C8FC58B06A5.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Tech_Panel_N.uasset'
+[2018.09.15-13.32.13:935][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Water_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Water_M.uasset" SILENT=true
+[2018.09.15-13.32.13:968][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Water_M893F4EDC4D1801CE842B6EAD4FCFF081.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Water_M.uasset'
+[2018.09.15-13.32.13:980][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Water_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Water_N.uasset" SILENT=true
+[2018.09.15-13.32.14:017][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Water_N8C74B62945E59DC0F92BEAB3AA25D252.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Water_N.uasset'
+[2018.09.15-13.32.14:028][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Floor_Walnut_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Floor_Walnut_D.uasset" SILENT=true
+[2018.09.15-13.32.14:093][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Floor_Walnut_DFDB126ED4F88B021D0AC528801EBF118.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Floor_Walnut_D.uasset'
+[2018.09.15-13.32.14:104][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Floor_Walnut_M" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Floor_Walnut_M.uasset" SILENT=true
+[2018.09.15-13.32.14:165][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Floor_Walnut_MDE7C6A034C30E8681A98179008EBF3C1.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Floor_Walnut_M.uasset'
+[2018.09.15-13.32.14:177][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Floor_Walnut_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Floor_Walnut_N.uasset" SILENT=true
+[2018.09.15-13.32.14:232][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Floor_Walnut_N69DACA46479CE3FADBE99FA8BA54B2C5.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Floor_Walnut_N.uasset'
+[2018.09.15-13.32.14:244][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Oak_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Oak_D.uasset" SILENT=true
+[2018.09.15-13.32.14:331][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Oak_DAFF7313D4940785BA39B84999300F7A4.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Oak_D.uasset'
+[2018.09.15-13.32.14:343][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Oak_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Oak_N.uasset" SILENT=true
+[2018.09.15-13.32.14:422][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Oak_NA4B59AD049E9F875128EF9989D880618.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Oak_N.uasset'
+[2018.09.15-13.32.14:433][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Pine_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Pine_D.uasset" SILENT=true
+[2018.09.15-13.32.14:558][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Pine_D5A884E974BDA25E72872A09B4BD326F7.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Pine_D.uasset'
+[2018.09.15-13.32.14:569][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Pine_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Pine_N.uasset" SILENT=true
+[2018.09.15-13.32.14:619][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Pine_NE12D8C8A4FDDD7B1BD0337B3916D0BAD.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Pine_N.uasset'
+[2018.09.15-13.32.14:630][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Walnut_D" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Walnut_D.uasset" SILENT=true
+[2018.09.15-13.32.14:719][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Walnut_DC098F094462B668662B5FD9092ECC56C.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Walnut_D.uasset'
+[2018.09.15-13.32.14:731][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Wood_Walnut_N" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Walnut_N.uasset" SILENT=true
+[2018.09.15-13.32.15:214][513]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/T_Wood_Walnut_N48752BCF41C67FE28AA9A7816DBEECC0.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Textures/T_Wood_Walnut_N.uasset'
+[2018.09.15-13.32.30:943][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.15-13.32.30:964][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.32.30:964][155]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.15-13.32.31:190][155]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.09.15-13.32.31:720][155]LogPlayLevel: PlayLevel: Blueprint regeneration took 755 ms (1 blueprints)
+[2018.09.15-13.32.31:720][155]PIE: New page: PIE session: ThirdPersonExampleMap (15 сент. 2018, 19:32:31)
+[2018.09.15-13.32.31:720][155]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.15-13.32.31:733][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012786s)
+[2018.09.15-13.32.31:734][155]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.15-13.32.31:734][155]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2018.09.15-13.32.31:734][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014383s)
+[2018.09.15-13.32.31:771][155]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.15-13.32.31:785][155]LogInit: FAudioDevice initialized.
+[2018.09.15-13.32.31:791][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.32.31:828][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.15-13.32.31:830][155]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.15-16.32.31
+[2018.09.15-13.32.31:831][155]LogWorld: Bringing up level for play took: 0.001709
+[2018.09.15-13.32.31:848][155]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,862
+[2018.09.15-13.32.31:849][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.32.33:235][304]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.32.33:244][305]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.32.33:255][306]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.32.34:246][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.32.34:321][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] None
+[2018.09.15-13.32.34:321][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.15-13.32.34:321][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.09.15-13.32.34:321][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.15-13.32.34:664][457]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.15-13.32.42:202][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.32.42:202][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.32.42:225][222]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.15-13.32.42:254][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.15-13.32.42:255][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.32.42:321][223]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.15-13.32.50:265][159]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particle/Particles/P_Explosion.P_Explosion
+[2018.09.15-13.33.01:102][405]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.15-13.33.03:593][679]LogEditorTransaction: Undo Create Pin Link
+[2018.09.15-13.33.04:595][773]LogEditorTransaction: Undo Change Object Pin Value
+[2018.09.15-13.33.05:345][837]LogEditorTransaction: Undo Add Node
+[2018.09.15-13.33.05:835][870]LogEditorTransaction: Undo Delete current selection
+[2018.09.15-13.33.07:699][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.33.07:741][ 62]LogSlate: Window 'P_Explosion' being destroyed
+[2018.09.15-13.33.07:744][ 62]LogCascade: Quitting Cascade. FXSystem=0x000001F804C0CE00
+[2018.09.15-13.33.09:250][226]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particle/Particles/P_Explosion.P_Explosion
+[2018.09.15-13.33.24:101][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.33.39:944][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.33.47:625][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.33.56:371][609]LogEditorTransaction: Undo Reset to Default
+[2018.09.15-13.33.56:844][644]LogEditorTransaction: Undo Edit Material
+[2018.09.15-13.33.57:029][659]LogEditorTransaction: Undo Add Node
+[2018.09.15-13.34.32:012][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.34.32:746][834]LogSlate: Window 'P_Explosion' being destroyed
+[2018.09.15-13.34.41:164][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.35.10:150][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.35.12:580][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.35.21:029][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.35.37:142][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.35.59:784][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.36.30:486][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.36.42:746][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.36.51:400][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.15-13.36.52:969][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Explosion" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Explosion.uasset" SILENT=true
+[2018.09.15-13.36.53:025][496]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_Explosion127E26AB4F627A8B859525826B0D10E6.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Explosion.uasset'
+[2018.09.15-13.37.38:156][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.38.26:724][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.38.45:916][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/Particles/P_Explosion" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Explosion.uasset" SILENT=true
+[2018.09.15-13.38.45:956][957]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/P_Explosion3CAF503A47EA71648637FC9E5DD09BC2.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Particle/Particles/P_Explosion.uasset'
+[2018.09.15-13.38.47:384][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.38.48:453][239]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.15-13.38.48:479][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.38.48:479][239]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.15-13.38.48:703][239]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.09.15-13.38.49:353][239]LogPlayLevel: PlayLevel: Blueprint regeneration took 874 ms (1 blueprints)
+[2018.09.15-13.38.49:354][239]PIE: New page: PIE session: ThirdPersonExampleMap (15 сент. 2018, 19:38:49)
+[2018.09.15-13.38.49:354][239]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.15-13.38.49:367][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013220s)
+[2018.09.15-13.38.49:368][239]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.15-13.38.49:368][239]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.09.15-13.38.49:368][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014331s)
+[2018.09.15-13.38.49:405][239]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.15-13.38.49:419][239]LogInit: FAudioDevice initialized.
+[2018.09.15-13.38.49:425][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.38.49:461][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.15-13.38.49:463][239]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.15-16.38.49
+[2018.09.15-13.38.49:464][239]LogWorld: Bringing up level for play took: 0.001608
+[2018.09.15-13.38.49:481][239]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,495
+[2018.09.15-13.38.49:481][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.38.51:112][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:121][411]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:130][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:138][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:148][414]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:157][415]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:165][416]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:174][417]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:184][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:193][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:201][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:211][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:221][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:230][423]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:239][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.51:247][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.15-13.38.52:482][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-13.38.52:567][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] None
+[2018.09.15-13.38.52:567][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.15-13.38.52:567][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.09.15-13.38.52:567][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.15-13.38.53:084][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.15-13.39.02:836][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.39.02:836][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.15-13.39.02:859][688]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.15-13.39.02:887][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.15-13.39.02:887][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.15-13.39.02:953][689]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.15-13.39.28:370][613]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.15-13.39.29:381][613]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.493 s
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: 
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1154]
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: 
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: Stack: 
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81cff71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81cd30c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81cd4b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff8084fec1a UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff805274c38 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81345c9a4 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff8133efee1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81b38df4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff8133ef8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff8134505b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c6529fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c755872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c7324bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c819c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:381][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c6094c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c6a1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c687c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff81c67b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff8315fd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff8315f0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff8315ff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff8315ec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff849316cc1 USER32.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff849316693 USER32.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff831600646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff640cf54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff640d05b3c UE4Editor.exe!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff640d05bba UE4Editor.exe!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff640d13dac UE4Editor.exe!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff640d15aaa UE4Editor.exe!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff848d93034 KERNEL32.DLL!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: [Callstack] 0x00007ff849d41461 ntdll.dll!UnknownFunction []
+[2018.09.15-13.39.29:382][613]LogOutputDevice: Error: 
+[2018.09.15-13.39.29:393][613]LogStats:                SubmitErrorReport -  0.000 s
