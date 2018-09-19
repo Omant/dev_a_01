@@ -1,0 +1,564 @@
+﻿Log file open, 09/19/18 00:23:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: parkour_sys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177218
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.077s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/epicSDK/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.18-21.23.04:235][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.18-21.23.04:235][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.18-21.23.04:245][  0]LogHAL: Display: Platform has ~ 16 GB [17136578560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.18-21.23.04:245][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.18-21.23.04:245][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.18-21.23.04:246][  0]LogInit: Computer: DESKTOP-1FJRS5V
+[2018.09.18-21.23.04:246][  0]LogInit: User: User
+[2018.09.18-21.23.04:246][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.18-21.23.04:246][  0]LogInit: High frequency timer resolution =2.929687 MHz
+[2018.09.18-21.23.04:246][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.09.18-21.23.04:246][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.18-21.23.04:246][  0]LogMemory: Process Physical Memory: 101.85 MB used, 101.85 MB peak
+[2018.09.18-21.23.04:246][  0]LogMemory: Process Virtual Memory: 97.42 MB used, 97.42 MB peak
+[2018.09.18-21.23.04:246][  0]LogMemory: Physical Memory: 4773.43 MB used,  11569.29 MB free, 16342.71 MB total
+[2018.09.18-21.23.04:246][  0]LogMemory: Virtual Memory: 4638.43 MB used,  11569.29 MB free, 134217728.00 MB total
+[2018.09.18-21.23.04:261][  0]LogInit: Using OS detected language (ru-RU).
+[2018.09.18-21.23.04:261][  0]LogInit: Using OS detected locale (ru-UA).
+[2018.09.18-21.23.04:262][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.09.18-21.23.04:263][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.09.18-21.23.04:263][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.18-21.23.04:285][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.18-21.23.04:285][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.18-21.23.04:442][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.18-21.23.04:442][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.18-21.23.04:478][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.09.18-21.23.04:478][  0]LogD3D11RHI:       1977/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.18-21.23.04:480][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.18-21.23.04:480][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.18-21.23.04:480][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.18-21.23.04:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.18-21.23.04:485][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.18-21.23.04:485][  0]LogWindows: EnumDisplayDevices:
+[2018.09.18-21.23.04:485][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.09.18-21.23.04:485][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.18-21.23.04:485][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.18-21.23.04:486][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.18-21.23.04:486][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.18-21.23.04:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.09.18-21.23.04:486][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.09.18-21.23.04:486][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.09.18-21.23.04:486][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.09.18-21.23.04:512][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.18-21.23.04:529][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.18-21.23.04:530][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/parkour_sys/Intermediate/Shaders/WorkingDirectory/2828/).
+[2018.09.18-21.23.04:530][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/43A77DC74B8D4EA1D0723094161DFD66/'.
+[2018.09.18-21.23.04:817][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.18-21.23.04:830][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.18-21.23.04:842][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.18-21.23.04:855][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.18-21.23.04:868][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.18-21.23.04:881][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.18-21.23.04:894][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.18-21.23.04:907][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.18-21.23.04:912][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:993][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-21.23.04:994][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.18-21.23.05:054][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.18-21.23.05:054][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.18-21.23.05:077][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.18-21.23.05:077][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.18-21.23.05:089][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.18-21.23.05:101][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.18-21.23.05:113][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.18-21.23.05:126][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.18-21.23.05:134][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.18-21.23.05:134][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.18-21.23.05:172][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.18-21.23.05:172][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.18-21.23.05:172][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.18-21.23.05:172][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.18-21.23.05:819][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.18-21.23.05:872][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.18-21.23.05:872][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.18-21.23.05:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.18-21.23.05:873][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.18-21.23.05:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.18-21.23.05:873][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.18-21.23.05:886][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.18-21.23.05:898][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.18-21.23.05:898][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.18-21.23.05:898][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.18-21.23.05:916][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.18-21.23.05:917][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.18-21.23.05:918][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.18-21.23.05:988][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.09.18-21.23.06:279][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.18-21.23.06:396][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.18-21.23.06:398][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.18-21.23.06:398][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.18-21.23.06:399][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.18-21.23.06:399][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.18-21.23.06:411][  0]LogNetVersion: parkour_sys 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2775540849)
+[2018.09.18-21.23.06:867][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090900 seconds
+[2018.09.18-21.23.06:874][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.18-21.23.06:874][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.18-21.23.06:874][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.18-21.23.08:082][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.18-21.23.08:095][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.18-21.23.08:228][  0]SourceControl: Source control is disabled
+[2018.09.18-21.23.08:229][  0]SourceControl: Source control is disabled
+[2018.09.18-21.23.08:230][  0]SourceControl: Source control is disabled
+[2018.09.18-21.23.08:230][  0]SourceControl: Source control is disabled
+[2018.09.18-21.23.08:382][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.18-21.23.08:430][  0]LogOcInput: OculusInput pre-init called
+[2018.09.18-21.23.08:486][  0]LogEngine: Initializing Engine...
+[2018.09.18-21.23.08:487][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.18-21.23.08:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.18-21.23.08:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.18-21.23.08:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.18-21.23.08:488][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.18-21.23.08:691][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.18-21.23.08:700][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.18-21.23.08:709][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.18-21.23.08:727][  0]LogInit: FAudioDevice initialized.
+[2018.09.18-21.23.08:727][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.18-21.23.09:763][  0]LogDerivedDataCache: Saved boot cache 1.04s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.18-21.23.09:789][  0]LogInit: Texture streaming: Enabled
+[2018.09.18-21.23.09:800][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.18-21.23.09:809][  0]LogInit: Transaction tracking system initialized
+[2018.09.18-21.23.09:822][  0]BlueprintLog: New page: Editor Load
+[2018.09.18-21.23.09:873][  0]LocalizationService: Localization service is disabled
+[2018.09.18-21.23.10:091][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.18-21.23.10:091][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.18-21.23.10:091][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.18-21.23.10:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.18-21.23.10:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.18-21.23.10:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.18-21.23.10:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.18-21.23.10:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/' took 0.01s
+[2018.09.18-21.23.10:178][  0]SourceControl: Source control is disabled
+[2018.09.18-21.23.10:179][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.18-21.23.10:179][  0]LightingResults: New page: Lighting Build
+[2018.09.18-21.23.10:180][  0]MapCheck: New page: Map Check
+[2018.09.18-21.23.10:180][  0]LightingResults: New page: Lighting Build
+[2018.09.18-21.23.11:858][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.18-21.23.11:874][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.18-21.23.11:906][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.18-21.23.11:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64,501ms to complete.
+[2018.09.18-21.23.11:970][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.792
+[2018.09.18-21.23.12:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.23.12:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.23.12:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.23.12:085][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.23.12:092][  0]LogCollectionManager: Loaded 0 collections in 0.001055 seconds
+[2018.09.18-21.23.12:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/Collections/' took 0.01s
+[2018.09.18-21.23.12:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Developers/User/Collections/' took 0.01s
+[2018.09.18-21.23.12:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Collections/' took 0.01s
+[2018.09.18-21.23.12:132][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.18-21.23.12:141][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2580 classes and 607 folders.
+[2018.09.18-21.23.12:146][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.18-21.23.12:180][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.18-21.23.12:192][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.18-21.23.12:195][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.18-21.23.12:198][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.18-21.23.12:282][  0]LogRenderer: Reallocating scene render targets to support 1072x924 Format 9 NumSamples 1 (Frame:1).
+[2018.09.18-21.23.12:393][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.18-21.23.12:393][  0]LogLoad: (Engine Initialization) Total time: 9.33 seconds
+[2018.09.18-21.23.12:393][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.18-21.23.12:403][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.18-21.23.12:425][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.09.18-21.23.12:612][  1]LogAssetRegistry: Asset discovery search completed in 6.6470 seconds
+[2018.09.18-21.23.12:614][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.18-21.23.12:614][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.09.18-21.23.30:378][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.23.30:452][786]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.18-21.23.30:473][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.23.30:474][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.18-21.23.30:486][786]PIE: New page: PIE session: ThirdPersonExampleMap (19 сент. 2018, 03:23:30)
+[2018.09.18-21.23.30:486][786]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.18-21.23.30:508][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021513s)
+[2018.09.18-21.23.30:509][786]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.18-21.23.30:509][786]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2018.09.18-21.23.30:509][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022720s)
+[2018.09.18-21.23.30:536][786]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.18-21.23.30:549][786]LogInit: FAudioDevice initialized.
+[2018.09.18-21.23.30:555][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.23.30:602][786]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.18-21.23.30:607][786]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.19-00.23.30
+[2018.09.18-21.23.30:608][786]LogWorld: Bringing up level for play took: 0.004634
+[2018.09.18-21.23.30:623][786]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.18-21.23.30:631][786]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,472
+[2018.09.18-21.23.30:631][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.23.30:653][786]LogRenderer: Reallocating scene render targets to support 1452x936 Format 9 NumSamples 1 (Frame:1).
+[2018.09.18-21.23.31:483][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:491][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:500][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:507][873]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:515][874]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:916][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:924][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:933][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:941][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:950][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:958][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:966][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:974][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:983][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.31:991][931]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.32:000][932]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.32:008][933]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.32:016][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.32:024][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.32:033][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.23.33:002][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.23.33:094][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] None
+[2018.09.18-21.23.33:094][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.18-21.23.33:094][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10.0
+[2018.09.18-21.23.33:094][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.09.18-21.23.33:094][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.18-21.23.34:113][184]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.18-21.23.35:577][359]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.18-21.23.39:661][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.23.39:661][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.23.39:683][848]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.18-21.23.39:714][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.18-21.23.39:715][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.23.39:769][849]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.09.18-21.23.53:461][420]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.18-21.23.53:472][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:472][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:472][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:472][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:472][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_0.Hanging.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_11.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_7.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_3.MoveRight.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_2.MoveLeft.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_13.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_12.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_9.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_10.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_15.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_19.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_9.AimRifle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_17.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_16.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_7.HipRifle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_21.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_20.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_18.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:CanGrab' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:ClimbLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:MoveLeftRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:JumpRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:JumpLeft' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:JumpUp' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsFireWeapon' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Reloading' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Yaw' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Pitch' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:HipWeapon' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:CharacterRef' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsAming' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:JumpUpLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:JumpLeftLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:JumpRightLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:CanMoveRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:CanMoveLeft' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:MoveLeft' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:MoveRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Climbing' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Hanging' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Direction' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsFireWeapon' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Reloading' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Yaw' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:473][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Pitch' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:HipWeapon' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:CharacterRef' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsAming' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:JumpUpLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:JumpLeftLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:JumpRightLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:CanMoveRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:CanMoveLeft' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:MoveLeft' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:MoveRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Climbing' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Hanging' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Direction' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:JumpUp' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:JumpLeft' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:JumpRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:MoveLeftRight' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ClimbLedge' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:CanGrab' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:474][420]LogMetaData: Removing '/Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.09.18-21.23.53:516][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/ThirdPerson_AnimBP" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Mannequin/ThirdPerson_AnimBP.uasset" SILENT=true
+[2018.09.18-21.23.53:721][420]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/ThirdPerson_AnimBP027075F4454AC2E0157EB8A3E88493BF.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Mannequin/ThirdPerson_AnimBP.uasset'
+[2018.09.18-21.23.54:485][420]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/ThirdPersonCharacterA2270B9B48D52CC4DCC8B3BC4258E1A0.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.18-21.23.56:439][648]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.09.18-21.23.56:448][648]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.18-21.23.56:643][648]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.18-21.23.56:645][648]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.09.18-21.23.57:090][648]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.18-21.23.57:818][648]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.18-21.23.58:124][648]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.18-21.23.58:185][648]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.18-21.23.58:372][649]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.18-21.25.11:459][321]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.09.18-21.25.12:614][381]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.18-21.25.12:636][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.25.12:636][381]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.18-21.25.12:880][381]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.09.18-21.25.13:396][381]LogPlayLevel: PlayLevel: Blueprint regeneration took 759 ms (1 blueprints)
+[2018.09.18-21.25.13:396][381]PIE: New page: PIE session: ThirdPersonExampleMap (19 сент. 2018, 03:25:13)
+[2018.09.18-21.25.13:396][381]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.18-21.25.13:411][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014852s)
+[2018.09.18-21.25.13:412][381]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.18-21.25.13:412][381]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.09.18-21.25.13:412][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015875s)
+[2018.09.18-21.25.13:445][381]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.18-21.25.13:458][381]LogInit: FAudioDevice initialized.
+[2018.09.18-21.25.13:465][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.25.13:502][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.18-21.25.13:506][381]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.19-00.25.13
+[2018.09.18-21.25.13:507][381]LogWorld: Bringing up level for play took: 0.004078
+[2018.09.18-21.25.13:526][381]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,423
+[2018.09.18-21.25.13:527][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.25.14:561][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:576][434]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:592][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:608][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:624][437]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:640][438]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:656][439]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:672][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.14:688][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.18-21.25.15:548][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.25.15:628][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] None
+[2018.09.18-21.25.15:628][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.18-21.25.15:628][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10.0
+[2018.09.18-21.25.15:628][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.09.18-21.25.15:628][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.18-21.25.16:213][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.18-21.25.20:012][770]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.18-21.25.20:482][799]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.18-21.25.30:950][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.25.30:951][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.18-21.25.30:975][455]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.18-21.25.31:004][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.18-21.25.31:005][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.18-21.25.31:078][456]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.18-21.25.59:470][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/ThirdPerson_AnimBP" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Mannequin/ThirdPerson_AnimBP.uasset" SILENT=true
+[2018.09.18-21.25.59:669][760]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/ThirdPerson_AnimBP9B2C36DC4237C1B2664857B5357895C9.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Mannequin/ThirdPerson_AnimBP.uasset'
+[2018.09.18-21.26.06:287][273]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2018.09.18-21.26.06:291][273]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2018.09.18-21.26.16:349][405]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.09.18-21.26.16:360][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.18-21.26.16:631][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.18-21.26.22:541][842]LogUObjectBase: Warning: Object is not registered
+[2018.09.18-21.26.22:888][842]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.347 s
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: 
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: Stack: 
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffddc0871e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffddbdc0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffddbddb346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdcc0c11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdcc0d060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdca3eda3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdc947ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdc943f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdd7e68204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdd80ae933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdd7ec281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdd7e98190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffdd7e8b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffde261d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffde2610270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffde261f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffde260c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffe019e6cc1 USER32.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffe019e6693 USER32.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffde2620646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ff648fb54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ff648fc5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ff648fc5bba UE4Editor.exe!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ff648fd3dac UE4Editor.exe!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ff648fd5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffe03863034 KERNEL32.DLL!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: [Callstack] 0x00007ffe04331461 ntdll.dll!UnknownFunction []
+[2018.09.18-21.26.22:888][842]LogOutputDevice: Error: 
+[2018.09.18-21.26.22:891][842]LogStats:                SubmitErrorReport -  0.000 s
