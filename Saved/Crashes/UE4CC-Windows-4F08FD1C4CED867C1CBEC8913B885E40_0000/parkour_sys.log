@@ -1,0 +1,1675 @@
+﻿Log file open, 09/27/18 01:35:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: parkour_sys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.666002
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.447s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/epicSDK/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.26-22.35.54:020][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-22.35.54:020][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.26-22.35.54:080][  0]LogHAL: Display: Platform has ~ 16 GB [17136578560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.26-22.35.54:080][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.26-22.35.54:080][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.26-22.35.54:084][  0]LogInit: Computer: DESKTOP-1FJRS5V
+[2018.09.26-22.35.54:084][  0]LogInit: User: User
+[2018.09.26-22.35.54:084][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.26-22.35.54:084][  0]LogInit: High frequency timer resolution =2.929689 MHz
+[2018.09.26-22.35.54:084][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.09.26-22.35.54:084][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.26-22.35.54:084][  0]LogMemory: Process Physical Memory: 101.58 MB used, 101.58 MB peak
+[2018.09.26-22.35.54:084][  0]LogMemory: Process Virtual Memory: 96.31 MB used, 96.31 MB peak
+[2018.09.26-22.35.54:084][  0]LogMemory: Physical Memory: 3706.50 MB used,  12636.21 MB free, 16342.71 MB total
+[2018.09.26-22.35.54:084][  0]LogMemory: Virtual Memory: 4637.37 MB used,  12636.21 MB free, 134217728.00 MB total
+[2018.09.26-22.35.56:538][  0]LogInit: Using OS detected language (ru-RU).
+[2018.09.26-22.35.56:538][  0]LogInit: Using OS detected locale (ru-UA).
+[2018.09.26-22.35.56:539][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.09.26-22.35.56:610][  0]LogStreaming: Display: Took  0.072s to InitEngineTextLocalization.
+[2018.09.26-22.35.56:610][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.26-22.35.57:468][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.26-22.35.57:469][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.26-22.36.09:434][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.26-22.36.09:434][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.26-22.36.09:494][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.09.26-22.36.09:494][  0]LogD3D11RHI:       1977/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.26-22.36.09:496][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.26-22.36.09:496][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.26-22.36.09:496][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.26-22.36.09:502][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.26-22.36.09:502][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.26-22.36.09:502][  0]LogWindows: EnumDisplayDevices:
+[2018.09.26-22.36.09:502][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.09.26-22.36.09:503][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.26-22.36.09:503][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.26-22.36.09:503][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.09.26-22.36.09:503][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.26-22.36.09:503][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.09.26-22.36.09:503][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.09.26-22.36.09:503][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.09.26-22.36.09:503][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.09.26-22.36.09:533][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.26-22.36.09:550][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.26-22.36.09:552][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/parkour_sys/Intermediate/Shaders/WorkingDirectory/4164/).
+[2018.09.26-22.36.09:552][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/DC2806A947380EBC090A65AD77F44B2E/'.
+[2018.09.26-22.36.10:539][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.26-22.36.10:665][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.26-22.36.10:700][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.26-22.36.10:781][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.26-22.36.10:894][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.26-22.36.10:955][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.26-22.36.11:000][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.26-22.36.11:076][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.26-22.36.11:127][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:327][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-22.36.11:398][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.26-22.36.11:760][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-22.36.11:760][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-22.36.11:878][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-22.36.11:878][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-22.36.12:021][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.26-22.36.12:106][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.26-22.36.12:165][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.26-22.36.12:262][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.26-22.36.12:325][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.26-22.36.12:326][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.26-22.36.15:159][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.26-22.36.15:159][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.26-22.36.15:160][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.26-22.36.15:160][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.26-22.36.18:178][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.26-22.36.18:509][  0]LogDerivedDataCache: Loaded boot cache 0.33s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.26-22.36.18:509][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.26-22.36.18:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.26-22.36.18:510][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.26-22.36.18:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.26-22.36.18:510][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.26-22.36.18:622][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.26-22.36.18:634][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.26-22.36.18:634][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.26-22.36.18:634][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.26-22.36.18:652][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.26-22.36.18:654][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.26-22.36.18:690][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.26-22.36.19:320][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.09.26-22.36.19:642][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-22.36.21:209][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.26-22.36.21:796][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.26-22.36.21:796][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.26-22.36.21:796][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.26-22.36.21:796][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.26-22.36.21:941][  0]LogNetVersion: parkour_sys 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2775540849)
+[2018.09.26-22.36.24:557][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.123171 seconds
+[2018.09.26-22.36.24:565][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.26-22.36.24:565][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.26-22.36.24:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.26-22.36.44:897][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.26-22.36.45:053][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.26-22.36.46:633][  0]SourceControl: Source control is disabled
+[2018.09.26-22.36.46:633][  0]SourceControl: Source control is disabled
+[2018.09.26-22.36.46:836][  0]SourceControl: Source control is disabled
+[2018.09.26-22.36.46:920][  0]SourceControl: Source control is disabled
+[2018.09.26-22.36.50:747][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.26-22.36.51:476][  0]LogOcInput: OculusInput pre-init called
+[2018.09.26-22.36.52:167][  0]LogEngine: Initializing Engine...
+[2018.09.26-22.36.52:168][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.26-22.36.52:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.26-22.36.52:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-22.36.52:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.26-22.36.52:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-22.36.53:911][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.26-22.36.53:965][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.26-22.36.53:975][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-22.36.53:994][  0]LogInit: FAudioDevice initialized.
+[2018.09.26-22.36.53:995][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.26-22.36.54:326][  0]LogDerivedDataCache: Saved boot cache 0.33s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.26-22.36.54:340][  0]LogInit: Texture streaming: Enabled
+[2018.09.26-22.36.54:599][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.26-22.36.54:668][  0]LogInit: Transaction tracking system initialized
+[2018.09.26-22.36.54:968][  0]BlueprintLog: New page: Editor Load
+[2018.09.26-22.36.59:120][  0]LocalizationService: Localization service is disabled
+[2018.09.26-22.37.04:432][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.26-22.37.04:432][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.26-22.37.04:432][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.26-22.37.04:432][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.26-22.37.04:432][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-22.37.04:432][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.26-22.37.04:432][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-22.37.04:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/' took 0.02s
+[2018.09.26-22.37.08:632][  0]SourceControl: Source control is disabled
+[2018.09.26-22.37.08:632][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-22.37.08:632][  0]LightingResults: New page: Lighting Build
+[2018.09.26-22.37.08:635][  0]MapCheck: New page: Map Check
+[2018.09.26-22.37.08:635][  0]LightingResults: New page: Lighting Build
+[2018.09.26-22.37.11:629][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.09.26-22.37.11:629][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:643][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.09.26-22.37.11:643][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:650][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.09.26-22.37.11:650][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:751][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.09.26-22.37.11:751][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:779][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.09.26-22.37.11:780][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:797][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.09.26-22.37.11:797][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:867][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Up.AS_Ironsight_Up
+[2018.09.26-22.37.11:868][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Up.AS_Ironsight_Up) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:868][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_RightUp.AS_Ironsight_RightUp
+[2018.09.26-22.37.11:868][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_RightUp.AS_Ironsight_RightUp) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:869][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_RightDown.AS_Ironsight_RightDown
+[2018.09.26-22.37.11:869][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_RightDown.AS_Ironsight_RightDown) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:870][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Right.AS_Ironsight_Right
+[2018.09.26-22.37.11:870][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Right.AS_Ironsight_Right) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:870][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_LeftUp.AS_Ironsight_LeftUp
+[2018.09.26-22.37.11:870][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_LeftUp.AS_Ironsight_LeftUp) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:871][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_LeftDown.AS_Ironsight_LeftDown
+[2018.09.26-22.37.11:871][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_LeftDown.AS_Ironsight_LeftDown) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:871][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Left_.AS_Ironsight_Left_
+[2018.09.26-22.37.11:871][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Left_.AS_Ironsight_Left_) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:872][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Down.AS_Ironsight_Down
+[2018.09.26-22.37.11:872][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Down.AS_Ironsight_Down) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:872][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2018.09.26-22.37.11:873][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.11:897][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Center.AS_Ironsight_Center
+[2018.09.26-22.37.11:897][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AimSpace/AS_Ironsight_Center.AS_Ironsight_Center) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:218][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2018.09.26-22.37.12:219][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:220][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2018.09.26-22.37.12:220][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:221][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/CornerRight.CornerRight
+[2018.09.26-22.37.12:221][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/CornerRight.CornerRight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:222][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/CornerLEft.CornerLeft
+[2018.09.26-22.37.12:222][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/CornerLEft.CornerLeft) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:350][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2018.09.26-22.37.12:350][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:351][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2018.09.26-22.37.12:351][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:352][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.09.26-22.37.12:352][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:356][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2018.09.26-22.37.12:356][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:357][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2018.09.26-22.37.12:357][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:358][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2018.09.26-22.37.12:359][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:360][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2018.09.26-22.37.12:360][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:361][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/MoveRight.MoveRight
+[2018.09.26-22.37.12:361][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/MoveRight.MoveRight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:362][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/MoveLeft.MoveLeft
+[2018.09.26-22.37.12:362][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/MoveLeft.MoveLeft) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:363][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Hang_Idle.Hang_Idle
+[2018.09.26-22.37.12:363][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Hang_Idle.Hang_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:365][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2018.09.26-22.37.12:365][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Equip_Rifle_Standing.Equip_Rifle_Standing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:366][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/JumpRight.JumpRight
+[2018.09.26-22.37.12:366][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/JumpRight.JumpRight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:368][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/JumpLeft.JumpLeft
+[2018.09.26-22.37.12:368][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/JumpLeft.JumpLeft) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:370][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Jump_Up.Jump_Up
+[2018.09.26-22.37.12:370][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Jump_Up.Jump_Up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:371][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Crouch_to_Stand.Crouch_to_Stand
+[2018.09.26-22.37.12:371][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Crouch_to_Stand.Crouch_to_Stand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:373][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Climb.Climb
+[2018.09.26-22.37.12:373][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/AnimFromLesson/Climb.Climb) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-22.37.12:717][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-22.37.12:753][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-22.37.12:784][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-22.37.12:853][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,535ms to complete.
+[2018.09.26-22.37.12:853][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.221
+[2018.09.26-22.37.13:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.37.13:120][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.37.13:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.37.13:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.37.13:405][  0]LogCollectionManager: Loaded 0 collections in 0.002444 seconds
+[2018.09.26-22.37.13:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/Collections/' took 0.01s
+[2018.09.26-22.37.13:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Developers/User/Collections/' took 0.01s
+[2018.09.26-22.37.13:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Collections/' took 0.01s
+[2018.09.26-22.37.13:457][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.26-22.37.13:482][  0]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 2580 classes and 607 folders.
+[2018.09.26-22.37.13:492][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.26-22.37.14:585][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.26-22.37.14:628][  0]LogSlate: Took 0.008034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.26-22.37.14:636][  0]LogSlate: Took 0.005408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.26-22.37.14:666][  0]LogSlate: Took 0.023466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.26-22.37.14:824][  0]LogRenderer: Reallocating scene render targets to support 1108x924 Format 9 NumSamples 1 (Frame:1).
+[2018.09.26-22.37.14:975][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.26-22.37.14:975][  0]LogLoad: (Engine Initialization) Total time: 101.63 seconds
+[2018.09.26-22.37.14:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.26-22.37.15:013][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.09.26-22.37.15:102][  0]LogSlate: Took 0.004292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-22.37.15:254][  1]LogAssetRegistry: Asset discovery search completed in 55.9557 seconds
+[2018.09.26-22.37.15:256][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.26-22.37.15:256][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.09.26-22.46.58:310][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.46.58:446][988]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-22.46.58:452][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.09.26-22.46.59:199][988]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.26-22.47.00:311][988]LogSlate: Took 0.024145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.26-22.47.00:829][989]LogSlate: Took 0.003455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.26-22.48.40:776][697]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2018.09.26-22.48.40:778][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.09.26-22.48.40:799][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.09.26-22.48.40:800][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.09.26-22.48.41:549][697]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/ThirdPersonCharacter_Auto132FC934A49E03438B6819EAD7AD5A2C4.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.09.26-22.48.41:552][697]LogFileHelpers: Auto-saving content packages took 0.775
+[2018.09.26-22.52.25:873][732]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-22.52.39:694][177]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-22.52.41:951][314]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.26-22.52.41:977][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.52.41:977][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-22.52.41:989][314]PIE: New page: PIE session: ThirdPersonExampleMap (27 сент. 2018, 04:52:41)
+[2018.09.26-22.52.41:989][314]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-22.52.42:013][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023553s)
+[2018.09.26-22.52.42:014][314]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-22.52.42:014][314]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.09.26-22.52.42:014][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024730s)
+[2018.09.26-22.52.42:058][314]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-22.52.42:071][314]LogInit: FAudioDevice initialized.
+[2018.09.26-22.52.42:078][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.52.42:205][314]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-22.52.42:210][314]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.27-01.52.42
+[2018.09.26-22.52.42:211][314]LogWorld: Bringing up level for play took: 0.004661
+[2018.09.26-22.52.42:230][314]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.26-22.52.42:245][314]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,204
+[2018.09.26-22.52.42:245][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.52.42:269][314]LogRenderer: Reallocating scene render targets to support 1452x936 Format 9 NumSamples 1 (Frame:1).
+[2018.09.26-22.52.43:379][431]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:388][432]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:397][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:405][434]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:413][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:422][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:430][437]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:439][438]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:447][439]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:456][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:464][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:472][442]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:481][443]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:489][444]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:498][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:506][446]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:515][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:523][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:531][449]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:540][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:548][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:557][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:565][453]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:574][454]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:582][455]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:590][456]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:598][457]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:607][458]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:615][459]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:624][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:632][461]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:640][462]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:648][463]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:657][464]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:665][465]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:674][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:682][467]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:690][468]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:698][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:707][470]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:715][471]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:723][472]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:731][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:740][474]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:748][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:757][476]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:765][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:774][478]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:782][479]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:790][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:798][481]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:807][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:815][483]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:824][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:832][485]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:840][486]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:849][487]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:857][488]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:866][489]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:875][490]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.43:883][491]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.52.44:118][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:127][520]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:136][521]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:144][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:152][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:161][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:169][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:178][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:186][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:194][528]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:202][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:211][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:219][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:228][532]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:236][533]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:245][534]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:253][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:261][536]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:269][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:278][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:286][539]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:295][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:303][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:312][542]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:320][543]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:328][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:337][545]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:345][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:353][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:362][548]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:371][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:379][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:387][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:395][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:403][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:411][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:420][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:428][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:437][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:445][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:454][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:462][560]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:470][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:479][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:487][563]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:495][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.44:504][565]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.52.47:375][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.52.47:492][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10.0
+[2018.09.26-22.52.47:492][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.26-22.52.47:492][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2018.09.26-22.52.47:492][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3.0
+[2018.09.26-22.52.47:492][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.26-22.52.47:492][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.52.50:113][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20.0
+[2018.09.26-22.52.50:113][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.09.26-22.52.50:113][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.09.26-22.52.50:113][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1.0
+[2018.09.26-22.52.50:113][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2.0
+[2018.09.26-22.52.50:113][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.52.52:108][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.52.56:502][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.52.57:527][119]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.52.59:421][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.52.59:437][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.53.01:210][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.53.02:069][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.53.04:217][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.53.04:217][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.53.04:242][913]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-22.53.04:281][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-22.53.04:282][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.53.04:384][914]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.26-22.54.34:727][799]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-22.54.36:073][835]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.26-22.54.36:100][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.54.36:101][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-22.54.36:101][835]PIE: New page: PIE session: ThirdPersonExampleMap (27 сент. 2018, 04:54:36)
+[2018.09.26-22.54.36:101][835]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-22.54.36:116][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014927s)
+[2018.09.26-22.54.36:117][835]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-22.54.36:117][835]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2018.09.26-22.54.36:117][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016248s)
+[2018.09.26-22.54.36:162][835]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-22.54.36:176][835]LogInit: FAudioDevice initialized.
+[2018.09.26-22.54.36:182][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.54.36:223][835]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-22.54.36:227][835]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.27-01.54.36
+[2018.09.26-22.54.36:228][835]LogWorld: Bringing up level for play took: 0.004184
+[2018.09.26-22.54.36:250][835]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,791
+[2018.09.26-22.54.36:250][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.54.37:087][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:098][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:109][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:121][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:132][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:143][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:155][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:167][911]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:178][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:190][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:202][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:213][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:225][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:237][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:249][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:260][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:271][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:283][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:296][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:307][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:318][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:329][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:339][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:351][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:362][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:374][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:386][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.54.37:537][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:549][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:560][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:573][946]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:584][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:596][948]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:608][949]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:620][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:631][951]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:643][952]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:654][953]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:666][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:677][955]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:690][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:713][958]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:724][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:735][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:746][961]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:758][962]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:770][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:781][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:793][965]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:804][966]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:815][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:827][968]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:840][969]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:851][970]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:862][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:875][972]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:886][973]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:898][974]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:909][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:921][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:932][977]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:943][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:954][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:967][980]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:979][981]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.37:990][982]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:002][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:013][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:026][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:037][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:048][987]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:060][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:071][989]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:083][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:095][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:107][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:119][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:131][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:142][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:155][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:166][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:179][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:190][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:201][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:212][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:225][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:237][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:248][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:260][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:272][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:284][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:296][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:307][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:319][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:330][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:342][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:353][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:365][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:375][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:388][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:399][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:410][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:422][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:434][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:445][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:457][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:468][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:480][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:491][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:503][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:515][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:527][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:539][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:550][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:562][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:573][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:584][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:597][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:608][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:620][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:632][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:643][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:656][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:665][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:677][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:689][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:700][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:711][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:723][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:735][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:746][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:758][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:770][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:782][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:793][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:805][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:816][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:828][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:839][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:851][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:862][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:873][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:884][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.54.38:895][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.54.43:404][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.54.43:506][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10.0
+[2018.09.26-22.54.43:506][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.26-22.54.43:506][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2018.09.26-22.54.43:506][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3.0
+[2018.09.26-22.54.43:506][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.26-22.54.43:506][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.54.47:037][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.54.47:139][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20.0
+[2018.09.26-22.54.47:140][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.09.26-22.54.47:140][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.09.26-22.54.47:140][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1.0
+[2018.09.26-22.54.47:140][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2.0
+[2018.09.26-22.54.47:140][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.54.49:718][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.54.52:670][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.54.53:478][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.55.09:190][696]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.09:513][724]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-22.55.09:731][743]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-22.55.09:936][761]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-22.55.10:125][777]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-22.55.10:326][794]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.11:056][856]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.11:297][877]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.11:560][899]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.11:761][916]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.11:952][932]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.12:269][959]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.12:422][972]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.12:681][994]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.15:164][204]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.15:443][228]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.15:653][246]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.15:863][264]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.16:115][286]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.18:791][517]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.19:048][539]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.19:266][558]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.19:465][575]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.19:695][595]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.21:508][752]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.22:072][800]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.23:003][880]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.23:216][898]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.23:413][915]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.23:621][933]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.23:832][951]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.24:050][969]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.26:152][150]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.26:396][171]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.26:634][191]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.26:855][210]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.27:031][225]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.29:120][404]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.29:407][429]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.29:582][444]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.29:742][458]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.29:917][473]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.32:857][728]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.33:055][745]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.33:262][763]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.33:530][786]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.35:890][992]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.36:122][ 12]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.38:630][228]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.39:232][280]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.39:350][290]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.39:482][301]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.39:613][312]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.42:350][549]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-22.55.43:511][650]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.43:643][661]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.48:979][128]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.49:141][142]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.49:307][156]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.51:797][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:808][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:853][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:865][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:876][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:888][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:900][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:911][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:924][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:935][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:947][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:959][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.51:971][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:292][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:303][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.53:303][502]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.53:556][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:567][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:578][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.53:578][526]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.53:579][526]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.53:841][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:853][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:864][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:876][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:888][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.53:899][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.53:900][554]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.53:900][554]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.53:900][554]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:132][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:143][575]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:156][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:168][577]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:179][578]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:191][579]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:203][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:214][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:226][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:238][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.54:238][583]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:239][583]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:239][583]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:239][583]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:385][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:397][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:408][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:419][599]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:441][600]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:456][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:468][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:479][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:491][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:503][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:515][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:527][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:538][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:549][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:560][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:572][611]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:582][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.54:583][612]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:583][612]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:583][612]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:584][612]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:584][612]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:664][619]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:675][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:687][621]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:698][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:709][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:720][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:732][625]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:743][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:755][627]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:767][628]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:778][629]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:789][630]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:800][631]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:811][632]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:823][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:835][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:846][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:859][636]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:870][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.54:870][637]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:871][637]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:871][637]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:871][637]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:871][637]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:872][637]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.54:872][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:884][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:897][639]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:910][640]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:922][641]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:934][642]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:948][643]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:961][644]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:973][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:987][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.54:999][647]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:010][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:022][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:035][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:047][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:062][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:073][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.55.55:084][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToArmor
+[2018.09.26-22.55.55:084][654]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.55:085][654]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.55:085][654]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.55:085][654]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.55:085][654]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.55:086][654]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.55:086][654]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventoryWeapon' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.09.26-22.55.58:309][935]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.58:509][952]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.58:702][968]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.58:901][985]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.59:089][  1]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.55.59:229][ 13]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.56.05:166][535]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.07:206][711]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.07:407][728]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.07:552][740]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.07:730][755]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.07:861][766]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.07:993][777]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.11:144][ 50]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.11:334][ 66]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.11:468][ 77]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.11:592][ 87]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-22.56.12:055][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.56.12:056][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.56.12:083][127]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-22.56.12:119][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-22.56.12:120][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.56.12:173][128]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.09.26-22.56.13:406][264]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.26-22.56.13:432][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.56.13:432][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-22.56.13:432][264]PIE: New page: PIE session: ThirdPersonExampleMap (27 сент. 2018, 04:56:13)
+[2018.09.26-22.56.13:432][264]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-22.56.13:447][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014194s)
+[2018.09.26-22.56.13:448][264]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-22.56.13:448][264]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2018.09.26-22.56.13:448][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015780s)
+[2018.09.26-22.56.13:486][264]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-22.56.13:499][264]LogInit: FAudioDevice initialized.
+[2018.09.26-22.56.13:504][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.56.13:546][264]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-22.56.13:550][264]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.27-01.56.13
+[2018.09.26-22.56.13:551][264]LogWorld: Bringing up level for play took: 0.004381
+[2018.09.26-22.56.13:572][264]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,531
+[2018.09.26-22.56.13:573][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.56.14:399][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:410][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:421][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:433][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:444][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:456][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:468][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:479][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:491][340]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:502][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:513][342]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:525][343]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:537][344]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.56.14:784][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:796][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:808][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:819][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:830][370]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:841][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:853][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:864][373]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:875][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:887][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:898][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:909][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:920][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:933][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.14:944][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.56.16:452][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.56.16:534][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10.0
+[2018.09.26-22.56.16:534][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.26-22.56.16:534][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2018.09.26-22.56.16:534][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3.0
+[2018.09.26-22.56.16:534][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.26-22.56.16:534][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.56.18:398][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.56.18:398][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.56.18:422][677]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-22.56.18:455][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-22.56.18:456][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.56.18:507][678]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.26-22.58.37:532][985]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-22.58.39:100][ 49]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.26-22.58.39:126][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.58.39:126][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-22.58.39:127][ 49]PIE: New page: PIE session: ThirdPersonExampleMap (27 сент. 2018, 04:58:39)
+[2018.09.26-22.58.39:127][ 49]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-22.58.39:142][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015312s)
+[2018.09.26-22.58.39:143][ 49]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-22.58.39:144][ 49]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2018.09.26-22.58.39:144][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017001s)
+[2018.09.26-22.58.39:185][ 49]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-22.58.39:199][ 49]LogInit: FAudioDevice initialized.
+[2018.09.26-22.58.39:206][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.58.39:241][ 49]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-22.58.39:246][ 49]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.27-01.58.39
+[2018.09.26-22.58.39:247][ 49]LogWorld: Bringing up level for play took: 0.004500
+[2018.09.26-22.58.39:266][ 49]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,224
+[2018.09.26-22.58.39:266][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.58.40:285][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:293][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:302][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:310][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:319][154]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:328][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:337][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:345][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:354][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:363][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:372][160]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:381][161]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:389][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:398][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:407][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:416][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:425][166]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:434][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:443][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:452][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:460][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:469][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:477][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:486][173]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:495][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:505][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:514][176]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:522][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:531][178]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:540][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:549][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:557][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:566][182]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:575][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.40:583][184]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.58.41:781][320]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:789][321]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:798][322]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:807][323]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:816][324]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:825][325]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:835][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:843][327]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:852][328]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:861][329]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:870][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:879][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:888][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:898][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:907][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:917][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:926][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:935][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:944][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:953][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:962][340]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:972][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:981][342]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.41:990][343]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:000][344]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:009][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:018][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:027][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:036][348]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:045][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:054][350]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:063][351]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:072][352]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:081][353]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:090][354]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:099][355]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:110][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:119][357]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:128][358]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:138][359]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:147][360]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:156][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:166][362]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:176][363]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:185][364]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:195][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:204][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:213][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:222][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:231][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:240][370]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:250][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:259][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:268][373]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:276][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:285][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:294][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:302][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:311][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:320][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:329][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:338][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:348][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:356][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:366][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:376][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:384][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:393][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:403][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:412][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:419][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:428][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:437][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:447][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:455][394]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:465][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:473][396]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:482][397]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:491][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:500][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.58.42:509][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-22.58.44:145][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.58.44:244][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10.0
+[2018.09.26-22.58.44:244][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.09.26-22.58.44:244][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2018.09.26-22.58.44:244][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3.0
+[2018.09.26-22.58.44:244][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.1
+[2018.09.26-22.58.44:244][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.58.45:523][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20.0
+[2018.09.26-22.58.45:523][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.09.26-22.58.45:523][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.09.26-22.58.45:523][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1.0
+[2018.09.26-22.58.45:523][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2.0
+[2018.09.26-22.58.45:523][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-22.58.47:863][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.58.50:257][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.58.51:645][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.58.54:350][722]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-22.58.54:534][742]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.58.54:728][764]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.58.54:963][790]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.58.55:161][812]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-22.58.55:559][857]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.58.56:792][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.58.59:654][311]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.59.00:640][423]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.59.03:168][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.59.04:228][822]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.59.06:758][101]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.59.07:631][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.59.08:171][257]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:180][258]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:189][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:199][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:208][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:216][262]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:225][263]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:234][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:243][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:252][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:261][267]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:269][268]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:278][269]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:286][270]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:296][271]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:304][272]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:313][273]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:322][274]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:332][275]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:341][276]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:350][277]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:359][278]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:367][279]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:376][280]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:386][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:395][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:404][283]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:413][284]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:422][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:431][286]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:439][287]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:448][288]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:457][289]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:466][290]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.08:475][291]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-22.59.11:573][636]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.59.12:818][773]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.59.13:994][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.59.14:962][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-22.59.16:150][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-22.59.18:250][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-22.59.18:337][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeaponREPLASED
+[2018.09.26-22.59.18:900][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeaponREPLASED
+[2018.09.26-22.59.21:166][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.59.21:166][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-22.59.21:191][701]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-22.59.21:227][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-22.59.21:228][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-22.59.21:314][702]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.26-23.02.07:619][415]LogEditorTransaction: Undo Move Node
+[2018.09.26-23.02.08:423][417]LogEditorTransaction: Undo Create Pin Link
+[2018.09.26-23.02.09:879][423]LogEditorTransaction: Undo Create Pin Link
+[2018.09.26-23.02.11:294][428]LogEditorTransaction: Undo Move Nodes
+[2018.09.26-23.03.18:156][657]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-23.05.00:221][633]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-23.05.01:658][685]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.26-23.05.01:684][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.05.01:684][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-23.05.01:684][685]PIE: New page: PIE session: ThirdPersonExampleMap (27 сент. 2018, 05:05:01)
+[2018.09.26-23.05.01:684][685]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-23.05.01:699][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014790s)
+[2018.09.26-23.05.01:700][685]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-23.05.01:700][685]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.09.26-23.05.01:700][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015776s)
+[2018.09.26-23.05.01:742][685]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-23.05.01:757][685]LogInit: FAudioDevice initialized.
+[2018.09.26-23.05.01:762][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-23.05.01:797][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-23.05.01:801][685]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.27-02.05.01
+[2018.09.26-23.05.01:802][685]LogWorld: Bringing up level for play took: 0.004092
+[2018.09.26-23.05.01:819][685]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,778
+[2018.09.26-23.05.01:819][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.05.03:307][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:315][841]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:324][842]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:332][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:340][844]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:349][845]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:357][846]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:365][847]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:374][848]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:383][849]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:391][850]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:399][851]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:409][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:417][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:425][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:434][855]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:442][856]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:450][857]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:459][858]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:468][859]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:476][860]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:485][861]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:494][862]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:501][863]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:509][864]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:520][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:529][866]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:538][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:547][868]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-23.05.03:848][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:857][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:866][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:873][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:882][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:890][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:899][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:907][911]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:915][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:924][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:932][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:940][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:948][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:957][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:966][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:973][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:982][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:991][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.03:999][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:007][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:015][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:024][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:032][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:041][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:049][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:058][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:066][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:074][931]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:082][932]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:090][933]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:099][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:107][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.05.04:116][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-23.05.06:246][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-23.05.06:314][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.09.26-23.05.06:314][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-23.05.10:047][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-23.05.10:147][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.09.26-23.05.10:147][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-23.05.12:558][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.05.20:226][833]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.05.20:317][841]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.05.20:420][851]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.05.20:523][863]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.05.20:622][875]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.05.20:724][887]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.05.25:851][492]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.05.27:478][677]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.27:692][701]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.27:887][723]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.30:888][ 77]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.31:654][168]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.31:940][202]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.32:218][235]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.37:191][829]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.38:124][940]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.38:426][976]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.38:779][ 18]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.39:166][ 64]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.05.45:913][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.05.47:808][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.05.51:064][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.05.53:045][719]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.06.01:739][759]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.06.02:886][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.06.09:849][723]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.10:050][747]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.10:497][800]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.10:888][846]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.14:110][230]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.14:287][251]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.14:465][272]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.14:658][295]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.16:949][567]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.20:365][974]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.20:702][ 14]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.20:844][ 27]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.20:995][ 45]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.21:122][ 60]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.21:262][ 76]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.21:394][ 91]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.23:892][389]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.24:103][414]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.24:237][430]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.24:364][445]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.24:523][464]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.27:270][793]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.06.28:078][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.06.30:516][181]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.30:616][193]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.34:501][656]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.34:604][668]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.34:704][680]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.34:805][692]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.34:905][704]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.06.38:444][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.06.39:505][255]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.06.41:056][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.06.43:500][733]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.43:711][758]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.43:879][778]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.44:031][796]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.06.44:484][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.06.44:484][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-23.06.44:510][850]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-23.06.44:541][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-23.06.44:542][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.06.44:589][851]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.26-23.06.52:923][831]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/BP_PistolTest.BP_PistolTest
+[2018.09.26-23.07.04:816][213]BlueprintLog: New page: Compile BP_PistolTest
+[2018.09.26-23.07.08:175][588]LogSlate: Window 'BP_PistolTest*' being destroyed
+[2018.09.26-23.07.20:840][  9]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.26-23.07.20:872][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.07.20:872][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-23.07.20:872][  9]PIE: New page: PIE session: ThirdPersonExampleMap (27 сент. 2018, 05:07:20)
+[2018.09.26-23.07.20:872][  9]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-23.07.20:887][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014410s)
+[2018.09.26-23.07.20:887][  9]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-23.07.20:888][  9]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.09.26-23.07.20:888][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015576s)
+[2018.09.26-23.07.20:929][  9]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-23.07.20:943][  9]LogInit: FAudioDevice initialized.
+[2018.09.26-23.07.20:948][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-23.07.20:982][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-23.07.20:987][  9]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.27-02.07.20
+[2018.09.26-23.07.20:988][  9]LogWorld: Bringing up level for play took: 0.004740
+[2018.09.26-23.07.21:006][  9]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,034
+[2018.09.26-23.07.21:007][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.07.21:936][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:945][113]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:953][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:962][115]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:970][116]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:978][117]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:987][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.21:995][119]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:003][120]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:012][121]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:020][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:028][123]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:037][124]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:045][125]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:054][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:061][127]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:070][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:078][129]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:087][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:095][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:103][132]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:112][133]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:120][134]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:128][135]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:137][136]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:145][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:195][143]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:204][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:212][145]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:220][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:228][147]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:236][148]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:245][149]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:254][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:262][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:270][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:279][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:287][154]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:294][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:303][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:311][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:320][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:329][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:337][160]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:345][161]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:353][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:362][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:370][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:378][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:386][166]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:395][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:403][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:411][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:420][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:428][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:436][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:445][173]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:453][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:461][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:470][176]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:479][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:487][178]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:495][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:504][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:512][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:521][182]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:529][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:537][184]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:545][185]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:554][186]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:562][187]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:570][188]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:578][189]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:587][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:595][191]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:603][192]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:612][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.07.22:620][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-23.07.23:748][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-23.07.23:823][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.09.26-23.07.23:823][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-23.07.27:913][820]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.07.28:480][888]LogScript: Warning: Accessed None trying to read property Weapon1ItemSlot
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0DCF
+[2018.09.26-23.07.28:480][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon1ItemSlot". Blueprint:  ThirdPerson_AnimBP Function:  Execute Ubergraph Third Person Anim BP Graph:  EventGraph_Weapon Node:  AttachToComponent
+[2018.09.26-23.07.30:231][ 98]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.07.33:026][433]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.07.34:034][554]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.07.34:177][571]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.07.34:310][587]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.07.34:436][602]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.07.52:136][724]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-23.07.52:277][741]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-23.07.52:821][806]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-23.07.53:330][867]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-23.07.53:496][887]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-23.07.53:956][942]LogBlueprintUserMessages: [AI_Character_2] 20.0
+[2018.09.26-23.08.01:892][886]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.08.02:534][963]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.08.03:435][ 71]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.08.04:461][194]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.08.04:719][225]LogBlueprintUserMessages: [AI_Base_2] 20.0
+[2018.09.26-23.08.10:111][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:119][873]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:127][874]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:136][875]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:144][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:152][877]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:161][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:169][879]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:177][880]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:186][881]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:194][882]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:202][883]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:211][884]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:219][885]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:227][886]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:236][887]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:244][888]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:252][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:261][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:269][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:277][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:285][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:294][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:302][895]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:310][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:319][897]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:327][898]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:335][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:344][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:352][901]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:360][902]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:369][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:377][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:386][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:394][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:402][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:410][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:419][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:427][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:435][911]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:444][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:452][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:461][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:469][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:477][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:486][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:494][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:502][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:511][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:519][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:529][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:538][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:546][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:554][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:563][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:571][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:579][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:588][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:596][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:604][931]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:612][932]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:621][933]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:629][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:639][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:645][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:654][937]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.10:662][938]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.14:189][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] donthold weapon
+[2018.09.26-23.08.21:416][228]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:425][229]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:433][230]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:441][231]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:450][232]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:458][233]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:466][234]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:475][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:483][236]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:492][237]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:500][238]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:507][239]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:515][240]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:524][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:532][242]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:540][243]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:549][244]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:557][245]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:566][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:574][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:582][248]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:591][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:599][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:607][251]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:616][252]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:624][253]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:632][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:641][255]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:649][256]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:657][257]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:666][258]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:674][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:683][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:691][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:699][262]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:707][263]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:716][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.09.26-23.08.21:724][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.09.26-23.08.23:109][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-23.08.23:192][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.09.26-23.08.23:192][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.09.26-23.08.24:243][567]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.09.26-23.08.27:785][991]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.27:876][  2]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-23.08.27:976][ 14]LogBlueprintUserMessages: [AI_Base_2] HEADSHOT
+[2018.09.26-23.08.32:021][499]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.32:112][510]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.32:211][522]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.33:888][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-23.08.33:964][732]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsRemoved
+[2018.09.26-23.08.38:282][250]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.38:683][298]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.38:774][309]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.39:033][340]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.39:124][351]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.42:859][799]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.42:950][810]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.43:050][822]LogBlueprintUserMessages: [AI_Base_2] 10.0
+[2018.09.26-23.08.43:334][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.08.43:334][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-23.08.43:359][856]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.26-23.08.43:394][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-23.08.43:394][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-23.08.43:446][857]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.26-23.08.47:957][384]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.09.26-23.08.48:096][384]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.26-23.08.48:313][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.26-23.08.48:318][384]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.26-23.08.48:588][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.26-23.08.48:928][384]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.09.26-23.09.01:450][562]LogSlate: Window 'Message Log' being destroyed
+[2018.09.26-23.09.01:453][562]LogSlate: Window 'Message Log' being destroyed
+[2018.09.26-23.09.08:474][379]LogUObjectArray: Warning: Other object in slot
+[2018.09.26-23.09.10:076][379]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.601 s
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: 
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: Stack: 
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff17a371f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff17770c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff1778b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff12e011db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff12e1060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff141bda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff11edec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff11e9f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff17098204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff172de933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff170f281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff170c8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff170bb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff2c87d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff2c870270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff2c87f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff2c86c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff49086cc1 USER32.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff49086693 USER32.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff2c880646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007ff7025454e5 UE4Editor.exe!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007ff702555b3c UE4Editor.exe!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007ff702555bba UE4Editor.exe!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007ff702563dac UE4Editor.exe!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007ff702565aaa UE4Editor.exe!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff487b3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: [Callstack] 0x00007fff49b01461 ntdll.dll!UnknownFunction []
+[2018.09.26-23.09.10:076][379]LogOutputDevice: Error: 
+[2018.09.26-23.09.10:082][379]LogStats:                SubmitErrorReport -  0.000 s
