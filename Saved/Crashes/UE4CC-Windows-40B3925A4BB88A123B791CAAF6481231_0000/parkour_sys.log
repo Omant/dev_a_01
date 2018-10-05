@@ -1,0 +1,823 @@
+﻿Log file open, 10/05/18 04:03:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: parkour_sys
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179928
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/epicSDK/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.05-01.03.55:455][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.05-01.03.55:455][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.05-01.03.55:468][  0]LogHAL: Display: Platform has ~ 16 GB [17136578560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.05-01.03.55:468][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.05-01.03.55:468][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.05-01.03.55:468][  0]LogInit: Computer: DESKTOP-1FJRS5V
+[2018.10.05-01.03.55:468][  0]LogInit: User: User
+[2018.10.05-01.03.55:468][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.05-01.03.55:468][  0]LogInit: High frequency timer resolution =2.929685 MHz
+[2018.10.05-01.03.55:469][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.10.05-01.03.55:469][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.05-01.03.55:469][  0]LogMemory: Process Physical Memory: 101.84 MB used, 101.84 MB peak
+[2018.10.05-01.03.55:469][  0]LogMemory: Process Virtual Memory: 96.18 MB used, 96.18 MB peak
+[2018.10.05-01.03.55:469][  0]LogMemory: Physical Memory: 6253.33 MB used,  10089.39 MB free, 16342.71 MB total
+[2018.10.05-01.03.55:469][  0]LogMemory: Virtual Memory: 4637.37 MB used,  10089.39 MB free, 134217728.00 MB total
+[2018.10.05-01.03.55:483][  0]LogInit: Using OS detected language (ru-RU).
+[2018.10.05-01.03.55:483][  0]LogInit: Using OS detected locale (ru-UA).
+[2018.10.05-01.03.55:484][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.10.05-01.03.55:485][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.10.05-01.03.55:485][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.05-01.03.55:509][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.05-01.03.55:509][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.05-01.03.55:662][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.05-01.03.55:662][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.05-01.03.55:700][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.10.05-01.03.55:700][  0]LogD3D11RHI:       1977/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.05-01.03.55:702][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.05-01.03.55:702][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.05-01.03.55:702][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.05-01.03.55:708][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.05-01.03.55:708][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.05-01.03.55:708][  0]LogWindows: EnumDisplayDevices:
+[2018.10.05-01.03.55:708][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.10.05-01.03.55:709][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.10.05-01.03.55:709][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.10.05-01.03.55:709][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.10.05-01.03.55:709][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.05-01.03.55:709][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.10.05-01.03.55:709][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.10.05-01.03.55:709][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.10.05-01.03.55:709][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.10.05-01.03.55:737][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.05-01.03.55:753][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.05-01.03.55:754][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/parkour_sys/Intermediate/Shaders/WorkingDirectory/8800/).
+[2018.10.05-01.03.55:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/E3BAD85B44F8A5591A2FE68F069B47CF/'.
+[2018.10.05-01.03.56:026][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.05-01.03.56:039][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.05-01.03.56:050][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.05-01.03.56:063][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.05-01.03.56:077][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.05-01.03.56:090][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.05-01.03.56:103][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.05-01.03.56:115][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.05-01.03.56:121][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-01.03.56:202][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.05-01.03.56:261][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.05-01.03.56:261][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.05-01.03.56:285][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.05-01.03.56:285][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.05-01.03.56:298][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.05-01.03.56:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.05-01.03.56:322][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.05-01.03.56:335][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.05-01.03.56:344][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.05-01.03.56:344][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.05-01.03.56:381][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.05-01.03.56:381][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.05-01.03.56:381][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.05-01.03.57:043][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.05-01.03.57:095][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.05-01.03.57:095][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.05-01.03.57:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.05-01.03.57:095][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.05-01.03.57:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/parkour_sys/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.05-01.03.57:095][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.05-01.03.57:108][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.05-01.03.57:120][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.05-01.03.57:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.05-01.03.57:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.05-01.03.57:138][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.05-01.03.57:140][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.05-01.03.57:140][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.05-01.03.57:207][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.10.05-01.03.57:504][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.05-01.03.57:621][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.05-01.03.57:623][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.05-01.03.57:623][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.05-01.03.57:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.05-01.03.57:623][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.05-01.03.57:635][  0]LogNetVersion: parkour_sys 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2775540849)
+[2018.10.05-01.03.58:110][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.109104 seconds
+[2018.10.05-01.03.58:117][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.05-01.03.58:117][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.05-01.03.58:117][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.05-01.03.58:858][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.05-01.03.58:870][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.05-01.03.58:998][  0]SourceControl: Source control is disabled
+[2018.10.05-01.03.58:998][  0]SourceControl: Source control is disabled
+[2018.10.05-01.03.58:999][  0]SourceControl: Source control is disabled
+[2018.10.05-01.03.58:999][  0]SourceControl: Source control is disabled
+[2018.10.05-01.03.59:146][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.05-01.03.59:194][  0]LogOcInput: OculusInput pre-init called
+[2018.10.05-01.03.59:249][  0]LogEngine: Initializing Engine...
+[2018.10.05-01.03.59:249][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.05-01.03.59:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.05-01.03.59:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.05-01.03.59:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.05-01.03.59:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.05-01.03.59:445][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.05-01.03.59:454][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.05-01.03.59:463][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-01.03.59:490][  0]LogInit: FAudioDevice initialized.
+[2018.10.05-01.03.59:491][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.05-01.03.59:658][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.05-01.03.59:661][  0]LogInit: Texture streaming: Enabled
+[2018.10.05-01.03.59:673][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.05-01.03.59:681][  0]LogInit: Transaction tracking system initialized
+[2018.10.05-01.03.59:694][  0]BlueprintLog: New page: Editor Load
+[2018.10.05-01.03.59:755][  0]LocalizationService: Localization service is disabled
+[2018.10.05-01.03.59:977][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.05-01.03.59:977][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.05-01.03.59:977][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.05-01.03.59:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.05-01.03.59:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.05-01.03.59:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.05-01.03.59:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.05-01.04.00:065][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/' took 0.01s
+[2018.10.05-01.04.00:065][  0]SourceControl: Source control is disabled
+[2018.10.05-01.04.00:065][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.05-01.04.00:065][  0]LightingResults: New page: Lighting Build
+[2018.10.05-01.04.00:067][  0]MapCheck: New page: Map Check
+[2018.10.05-01.04.00:067][  0]LightingResults: New page: Lighting Build
+[2018.10.05-01.04.01:933][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.05-01.04.01:950][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.05-01.04.01:982][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.05-01.04.02:046][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,313ms to complete.
+[2018.10.05-01.04.02:046][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.981
+[2018.10.05-01.04.02:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.04.02:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.04.02:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.04.02:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.04.02:178][  0]LogCollectionManager: Loaded 0 collections in 0.000648 seconds
+[2018.10.05-01.04.02:217][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/Collections/' took 0.01s
+[2018.10.05-01.04.02:217][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Developers/User/Collections/' took 0.01s
+[2018.10.05-01.04.02:217][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Collections/' took 0.01s
+[2018.10.05-01.04.02:217][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.05-01.04.02:226][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2582 classes and 610 folders.
+[2018.10.05-01.04.02:232][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.05-01.04.02:263][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.05-01.04.02:277][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.05-01.04.02:278][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.05-01.04.02:283][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.05-01.04.02:359][  0]LogRenderer: Reallocating scene render targets to support 1092x924 Format 9 NumSamples 1 (Frame:1).
+[2018.10.05-01.04.02:452][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.05-01.04.02:452][  0]LogLoad: (Engine Initialization) Total time: 8.12 seconds
+[2018.10.05-01.04.02:452][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.05-01.04.02:462][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-01.04.02:484][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.10.05-01.04.02:514][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.05-01.04.02:548][  1]LogAssetRegistry: Asset discovery search completed in 5.3631 seconds
+[2018.10.05-01.04.02:550][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.05-01.04.02:550][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.10.05-01.04.14:524][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.04.14:625][228]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.05-01.04.14:648][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.04.14:648][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-01.04.14:661][228]PIE: New page: PIE session: ThirdPersonExampleMap (5 окт. 2018, 07:04:14)
+[2018.10.05-01.04.14:661][228]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.05-01.04.14:683][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021652s)
+[2018.10.05-01.04.14:684][228]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.05-01.04.14:684][228]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.10.05-01.04.14:684][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022626s)
+[2018.10.05-01.04.14:711][228]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-01.04.14:725][228]LogInit: FAudioDevice initialized.
+[2018.10.05-01.04.14:731][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.04.14:785][228]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.05-01.04.14:790][228]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.05-04.04.14
+[2018.10.05-01.04.14:791][228]LogWorld: Bringing up level for play took: 0.004723
+[2018.10.05-01.04.14:806][228]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.05-01.04.14:814][228]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,399
+[2018.10.05-01.04.14:814][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.04.14:858][228]LogRenderer: Reallocating scene render targets to support 1452x936 Format 9 NumSamples 1 (Frame:1).
+[2018.10.05-01.04.16:113][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:122][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:130][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:138][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:146][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:155][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:163][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:171][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:180][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:188][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:196][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:205][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:213][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:221][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:230][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:238][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:246][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:254][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:262][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:272][394]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:280][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:288][396]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:297][397]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:305][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:313][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:322][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:330][401]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:337][402]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:346][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:355][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.10.05-01.04.16:721][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:730][449]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:738][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:746][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:754][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:762][453]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:771][454]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.16:779][455]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:096][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:104][494]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:113][495]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:121][496]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:130][497]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:138][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:146][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:154][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:163][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:171][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:180][503]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:188][504]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:197][505]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:205][506]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:213][507]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:222][508]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:229][509]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:238][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:246][511]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:254][512]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:263][513]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:272][514]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:280][515]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:288][516]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:297][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:304][518]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:313][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:322][520]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:329][521]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:338][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:346][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:355][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:363][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:372][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:380][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:387][528]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:396][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:404][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.10.05-01.04.17:571][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:580][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:588][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:596][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:604][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:613][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:622][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:630][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:638][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:647][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.17:655][560]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.04.18:736][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.04.18:818][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.04.18:818][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.04.19:370][765]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.04.19:370][765]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.04.23:904][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-01.04.25:830][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hold weapon
+[2018.10.05-01.04.26:803][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.04.38:971][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.04.38:971][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.04.38:994][ 32]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-01.04.39:027][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-01.04.39:028][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.04.39:070][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.10.05-01.04.48:491][130]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.05-01.04.48:497][130]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.10.05-01.04.48:940][130]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.10.05-01.04.49:927][130]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.05-01.05.01:105][426]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.05-01.09.08:729][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.09.34:693][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.12.12:923][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.12.20:319][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.12.20:411][923]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.05-01.12.22:910][997]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/ThirdPersonCharacter1F660E81471D19BAA67EC6B2FE89E094.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.10.05-01.15.51:989][393]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.05-01.15.54:594][574]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.05-01.15.54:621][574]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.15.54:621][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-01.15.54:621][574]PIE: New page: PIE session: ThirdPersonExampleMap (5 окт. 2018, 07:15:54)
+[2018.10.05-01.15.54:621][574]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.05-01.15.54:636][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014501s)
+[2018.10.05-01.15.54:637][574]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.05-01.15.54:637][574]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.10.05-01.15.54:637][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015679s)
+[2018.10.05-01.15.54:678][574]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-01.15.54:692][574]LogInit: FAudioDevice initialized.
+[2018.10.05-01.15.54:698][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.15.54:730][574]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.05-01.15.54:734][574]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.05-04.15.54
+[2018.10.05-01.15.54:735][574]LogWorld: Bringing up level for play took: 0.004277
+[2018.10.05-01.15.54:753][574]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,339
+[2018.10.05-01.15.54:754][574]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.15.55:699][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:708][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:716][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:724][682]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:733][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:741][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:749][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:758][686]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:766][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:775][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:783][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:791][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:799][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:808][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:816][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:824][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.55:833][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.10.05-01.15.56:041][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.56:049][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.56:058][722]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.56:870][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.15.56:945][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.15.56:945][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.15.58:297][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:305][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:314][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:322][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:330][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:338][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:347][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:355][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:363][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:372][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:380][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:388][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:397][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:405][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:414][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:422][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:430][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:439][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:447][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:455][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:464][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:472][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:480][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:489][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:497][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:505][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:514][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:522][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:531][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:539][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:547][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:556][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:564][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:573][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:581][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:589][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:597][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:606][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:614][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:622][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:630][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:638][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:646][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:655][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:663][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.15.58:671][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.10.05-01.15.59:933][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.16.00:024][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.16.00:024][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.16.02:418][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.16.02:418][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.16.02:443][484]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-01.16.02:478][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-01.16.02:479][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.16.02:520][485]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.05-01.16.14:285][821]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/BP_PistolTest.BP_PistolTest
+[2018.10.05-01.16.17:452][159]LogSlate: Window 'BP_PistolTest' being destroyed
+[2018.10.05-01.16.54:528][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.17.00:647][508]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Meshes/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.10.05-01.17.00:654][508]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.05-01.17.00:876][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-01.17.00:881][508]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.10.05-01.17.01:237][508]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.10.05-01.17.14:164][460]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2018.10.05-01.17.14:179][460]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Meshes/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.10.05-01.17.14:179][460]LogMaterial: Warning: Material /Game/Meshes/RampMaterial.RampMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.05-01.17.14:183][460]LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling. 
+[2018.10.05-01.17.14:279][460]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.10.05-01.17.14:279][460]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.05-01.17.14:279][460]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.05-01.17.17:981][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.17.18:092][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/FPWeapon/Mesh/SK_FPGun" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Meshes/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2018.10.05-01.17.18:132][721]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/SK_FPGunEE95E58A40C6BF7530240DB2CC594B95.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Meshes/FPWeapon/Mesh/SK_FPGun.uasset'
+[2018.10.05-01.17.19:469][820]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.05-01.17.21:583][973]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.05-01.17.22:259][ 24]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.05-01.17.24:281][166]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.05-01.17.27:126][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.17.27:209][384]LogSlate: Window 'SK_FPGun' being destroyed
+[2018.10.05-01.17.36:898][217]LogAssetEditorManager: Opening Asset editor for Material /Game/Meshes/RampMaterial.RampMaterial
+[2018.10.05-01.17.36:902][217]LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling. 
+[2018.10.05-01.17.37:027][217]LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling. 
+[2018.10.05-01.17.37:064][217]LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling. 
+[2018.10.05-01.17.37:102][217]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.10.05-01.17.37:102][217]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.10.05-01.17.37:102][217]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.05-01.17.37:127][217]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.10.05-01.17.37:349][219]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.10.05-01.17.37:391][223]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.05-01.17.37:442][228]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.10.05-01.17.37:778][261]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.10.05-01.17.37:920][275]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.10.05-01.17.38:096][292]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.10.05-01.17.38:224][306]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.10.05-01.17.38:234][307]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-01.17.38:311][316]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.05-01.17.39:065][391]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.10.05-01.17.39:376][421]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.10.05-01.17.39:466][430]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.05-01.17.39:732][458]LogMaterialEditor: Saving and Compiling material RampMaterial
+[2018.10.05-01.17.39:754][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/RampMaterial" FILE="C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Meshes/RampMaterial.uasset" SILENT=true
+[2018.10.05-01.17.39:783][458]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/RampMaterial29334C664CB701C224C962B39478B328.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/Meshes/RampMaterial.uasset'
+[2018.10.05-01.17.40:083][487]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.10.05-01.17.40:228][501]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.10.05-01.17.40:594][535]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.10.05-01.17.40:722][548]LogSlate: Window 'RampMaterial' being destroyed
+[2018.10.05-01.17.40:879][548]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.10.05-01.17.40:879][548]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.10.05-01.17.40:923][548]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.10.05-01.17.41:226][578]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.10.05-01.17.41:343][591]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.05-01.17.41:421][600]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.05-01.17.41:766][639]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.05-01.17.41:807][644]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.05-01.17.41:939][659]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.05-01.17.42:282][688]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.05-01.17.42:509][706]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.05-01.17.42:555][709]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.05-01.17.42:910][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.17.42:929][736]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.05-01.17.42:952][738]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.05-01.17.43:261][770]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.05-01.17.43:349][780]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.05-01.17.43:377][783]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.05-01.17.43:564][804]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.05-01.17.43:600][808]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.05-01.17.43:609][809]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.05-01.17.43:830][834]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.05-01.17.43:874][839]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.05-01.17.44:269][881]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.05-01.17.44:279][882]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.05-01.17.44:619][918]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.05-01.17.44:919][944]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.05-01.17.45:040][953]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.05-01.17.45:064][953]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.05-01.17.45:461][985]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.05-01.17.45:756][ 14]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.05-01.17.45:991][ 39]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.05-01.17.46:190][ 60]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.05-01.17.46:529][ 95]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.05-01.17.46:567][ 99]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.05-01.17.46:603][103]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.05-01.17.46:925][136]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.05-01.17.46:959][140]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.05-01.17.47:009][144]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.05-01.17.47:198][164]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.05-01.17.47:235][167]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.05-01.17.47:311][176]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.05-01.17.47:689][218]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.05-01.17.47:730][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.17.47:750][225]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.05-01.17.47:792][229]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.05-01.17.47:818][229]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.05-01.17.47:818][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.17.47:818][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-01.17.47:818][229]PIE: New page: PIE session: ThirdPersonExampleMap (5 окт. 2018, 07:17:47)
+[2018.10.05-01.17.47:818][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.05-01.17.47:833][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014740s)
+[2018.10.05-01.17.47:834][229]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.05-01.17.47:834][229]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.10.05-01.17.47:834][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015739s)
+[2018.10.05-01.17.47:878][229]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-01.17.47:891][229]LogInit: FAudioDevice initialized.
+[2018.10.05-01.17.47:896][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.17.47:929][229]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.05-01.17.47:933][229]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.05-04.17.47
+[2018.10.05-01.17.47:934][229]LogWorld: Bringing up level for play took: 0.004234
+[2018.10.05-01.17.47:953][229]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,462
+[2018.10.05-01.17.47:953][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.17.48:210][252]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.05-01.17.48:244][256]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.05-01.17.48:422][276]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.05-01.17.48:759][314]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:769][315]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:777][316]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:786][317]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:792][318]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.05-01.17.48:795][318]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:804][319]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:812][320]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:821][321]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:829][322]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:837][323]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:847][324]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:855][325]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:865][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:874][327]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:883][328]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:891][329]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:900][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:908][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:916][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:926][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:934][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:944][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:953][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:961][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:970][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:976][339]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.05-01.17.48:978][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:984][340]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.05-01.17.48:987][340]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.48:995][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.10.05-01.17.49:213][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.49:223][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.49:232][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.49:240][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.49:249][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.17.52:569][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.17.52:636][773]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.17.52:636][773]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.17.54:163][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.17.54:163][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.17.54:188][956]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-01.17.54:216][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-01.17.54:217][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.17.54:262][957]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.05-01.17.57:257][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.18.42:941][535]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.05-01.18.45:527][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.18.45:585][722]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.05-01.18.45:610][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.18.45:611][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-01.18.45:611][722]PIE: New page: PIE session: ThirdPersonExampleMap (5 окт. 2018, 07:18:45)
+[2018.10.05-01.18.45:611][722]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.05-01.18.45:626][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015316s)
+[2018.10.05-01.18.45:627][722]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.05-01.18.45:627][722]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.10.05-01.18.45:627][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016284s)
+[2018.10.05-01.18.45:668][722]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-01.18.45:680][722]LogInit: FAudioDevice initialized.
+[2018.10.05-01.18.45:687][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.18.45:723][722]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.05-01.18.45:726][722]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.05-04.18.45
+[2018.10.05-01.18.45:727][722]LogWorld: Bringing up level for play took: 0.003983
+[2018.10.05-01.18.45:745][722]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,669
+[2018.10.05-01.18.45:746][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.18.46:592][815]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:600][816]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:608][817]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:617][818]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:625][819]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:633][820]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:642][821]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:650][822]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:658][823]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:667][824]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:675][825]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:683][826]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:692][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:700][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:708][829]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:717][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:725][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:733][832]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.46:742][833]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] AddToWeapon
+[2018.10.05-01.18.47:042][869]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:050][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:058][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:066][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:075][873]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:083][874]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:091][875]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:100][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] HIGHTLITED
+[2018.10.05-01.18.47:768][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.18.47:825][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.18.47:826][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.18.49:411][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.18.49:486][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsRemoved
+[2018.10.05-01.18.55:366][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.18.55:457][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] WeaponStatsAdded
+[2018.10.05-01.18.55:457][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] removedFromWeaponInv
+[2018.10.05-01.18.59:110][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.18.59:110][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-01.18.59:134][316]LogSlate: Window 'parkour_sys Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-01.18.59:167][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-01.18.59:168][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.05-01.18.59:211][317]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.05-01.19.05:795][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-01.19.11:882][495]LogSlate: Window 'Save Content' being destroyed
+[2018.10.05-01.19.12:569][495]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Saved/ThirdPersonCharacter6E3346A44A3FC83B2DF0BCA80000082F.tmp' to 'C:/Users/User/Documents/Unreal Projects/parkour_sys/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.10.05-01.19.17:067][842]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.10.05-01.19.17:166][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-01.19.17:442][842]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.05-01.19.23:466][320]LogUObjectArray: Warning: Other object in slot
+[2018.10.05-01.19.23:809][320]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.343 s
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: 
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: Stack: 
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea1ed71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea1c10c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea1c2b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe7ebd11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe7ebe060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe84cada7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe8395ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe8391f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe86ee8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe8712e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe86f4281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe86f18190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffe86f0b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea183d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea1830270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea183f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea182c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffee0e06cc1 USER32.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffee0e06693 USER32.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffea1840646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ff7b29754e5 UE4Editor.exe!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ff7b2985b3c UE4Editor.exe!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ff7b2985bba UE4Editor.exe!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ff7b2993dac UE4Editor.exe!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ff7b2995aaa UE4Editor.exe!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffee0f93034 KERNEL32.DLL!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: [Callstack] 0x00007ffee1d11461 ntdll.dll!UnknownFunction []
+[2018.10.05-01.19.23:809][320]LogOutputDevice: Error: 
+[2018.10.05-01.19.23:815][320]LogStats:                SubmitErrorReport -  0.000 s
